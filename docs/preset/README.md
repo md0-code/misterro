@@ -1,6 +1,6 @@
-# M-CRT preset for MiSTer
+# M-CRT preset
 
-A MiSTer FPGA video processing preset that reproduces the look of the
+The video processing preset that comes with every MiSTerRO core. It reproduces the look of the
 [m-crt](https://github.com/md0-code/m-crt) shader as closely as the MiSTer scaler allows.
 
 ## What it reproduces
@@ -19,8 +19,8 @@ Run the build and upload commands from `src/preset-mcrt/`.
 
 ## Install
 
-Extract `MiSTerRO-<version>-MCRT.zip` onto the MiSTer card (`/media/fat`), preserving paths. From a checkout, copy the
-contents of `src/preset-mcrt/dist/` there, or upload them over SSH:
+Every core archive puts the preset on the card, in `Filters/`, `Gamma/` and `Presets/`. From a checkout, copy the
+contents of `src/preset-mcrt/dist/` to the card (`/media/fat`), or upload them over SSH:
 
 ```
 pip install paramiko

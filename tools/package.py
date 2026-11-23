@@ -4,12 +4,13 @@
 
 MiSTerRO-<version>-<CORE>.zip, one for each core, is made from the core's own verified package
 (src/core-<family>/dist/<CORE>.zip, written by its tools/build.ps1 package): the bitstream (_Computer/) and the card's
-files (games/<CORE>/) as they are there, with the documentation in docs/MiSTerRO/. It is extracted onto the MiSTer card.
+files (games/<CORE>/) as they are there, the M-CRT video preset (src/preset-mcrt/dist/: Filters/, Gamma/, Presets/)
+and the documentation in docs/MiSTerRO/. It is extracted onto the MiSTer card.
 The core's package also carries a source export and the build's reports, which a release does without; scans of
 manuals and schematics are never shipped, and a package that still holds some loses them here.
 
-MiSTerRO-<version>-MCRT.zip is the video preset (src/preset-mcrt/dist/) and MiSTerRO-<version>-assets.zip the firmware
-and media the cores are built with (tools/assets.py). dist/releases/ holds the current version only; dist/ is the card
+MiSTerRO-<version>-assets.zip holds the firmware and media the cores are built with (tools/assets.py), for building
+them from source. dist/releases/ holds the current version only; dist/ is the card
 with everything on it.
 
 Checked on the way: every file taken against the package's own SHA256SUMS, the bitstream against the SHA-256 in the
@@ -155,15 +156,13 @@ def main() -> int:
     if f"## {version} (" not in (ROOT / "docs" / "CHANGELOG.md").read_text(encoding="utf-8"):
         raise PackageError(f"docs/CHANGELOG.md has no entry for {version}")
     docs = documentation()
-    card: dict[str, bytes] = dict(docs)
+    preset = preset_files()
+    card: dict[str, bytes] = {**docs, **preset}
     archives: dict[str, dict[str, bytes]] = {}
     for family, core in CORES.items():
         files = core_files(family, core)
-        archives[core] = {**files, **docs}
+        archives[core] = {**files, **preset, **docs}
         card.update(files)
-    preset = preset_files()
-    archives["MCRT"] = {**preset, **docs}
-    card.update(preset)
 
     dist = ROOT / "dist"
     releases = dist / "releases"

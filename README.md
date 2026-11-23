@@ -5,7 +5,6 @@
 Cores for [MiSTer](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki) (the DE10-Nano FPGA board) of the Romanian computers of
 the 1980s and 1990s: the HC family, the CIP, the TIM-S, the CoBra, the JET, the CUB Z, the aMIC, the PRAE-M and the
 JUNIOR-XT. Each core is the machine's own logic and runs its original firmware; every core has been run on a real MiSTer.
-With them comes M-CRT, a video preset for MiSTer.
 
 ![The HC-91, Turbo Pascal on the CUB Z, the JUNIOR-XT, the aMIC, the PRAE-M and CP/M on the CoBra](assets/misterro-screenshot.jpg)
 
@@ -23,20 +22,18 @@ With them comes M-CRT, a video preset for MiSTer.
 | **PRAE** | ITC Cluj-Napoca | PRAE-M, BASIC 3.6 and 3.5 | no | [PRAE](docs/prae/README.md) |
 | **JUNIORXT** | FEPER | JUNIOR-XT, BIOS 4.0, 3.0 and 5.0 | yes | [JUNIOR-XT](docs/juniorxt/README.md) |
 
-The [M-CRT preset](docs/preset/README.md) gives any MiSTer core soft pixel edges, light scanlines and a matching gamma curve.
-
 Firmware is never patched, with the exceptions each guide names: the aMIC's archived ROM has two faults repaired, the
 TIM-S Plus starts from a replacement bootstrap because its own is not archived, and the HC-88 boots a replacement CP/M
 system disk. The [limitations](docs/NOTES.md#limitations) say what is not known or not built.
 
 ## Quick start
 
-1. Download `MiSTerRO-<version>-<CORE>.zip` for each core you want; `MiSTerRO-<version>-MCRT.zip` is the preset.
+1. Download `MiSTerRO-<version>-<CORE>.zip` for each core you want.
 2. Extract it onto the MiSTer card (`/media/fat`), preserving paths.
 3. Choose the core under **Computers** in the MiSTer menu.
 
-An archive holds the core (`_Computer/`), the machine's firmware, a demo and its support files (`games/<CORE>/`) and this
-documentation (`docs/MiSTerRO/`). The firmware loads by itself when the core starts. Each guide's Start section tells
+An archive holds the core (`_Computer/`), the machine's firmware, a demo and its support files (`games/<CORE>/`), the
+[M-CRT](docs/preset/README.md) video preset (`Filters/`, `Gamma/`, `Presets/`) and this documentation (`docs/MiSTerRO/`). The firmware loads by itself when the core starts. Each guide's Start section tells
 how to reach BASIC or CP/M and load the demo. No manuals or schematics come with the cores, and no other software: the
 tapes and disks are your own. [Notes](docs/NOTES.md) lists what each archive puts on the card.
 
@@ -45,7 +42,8 @@ tapes and disks are your own. [Notes](docs/NOTES.md) lists what each archive put
 Every core has the same menu: the mounted disks and the tape first, then **System** (model, memory, startup, Load
 firmware), **Ports & Controllers** and **Audio & Video**, then **Reset**. Every core has **Aspect ratio** (Original, Full
 Screen, ARC1, ARC2) and **Scandoubler Fx** (None, HQ2x, CRT 25%, CRT 50%), and a **Monitor** choice where the machine had
-one.
+one. **Video Processing → Load preset → M-CRT** gives the picture soft pixel edges, light scanlines and a matching
+gamma curve.
 
 | Key | |
 |---|---|

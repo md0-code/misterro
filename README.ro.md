@@ -5,7 +5,7 @@
 Nuclee pentru [MiSTer](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki) (placa FPGA DE10-Nano) ale calculatoarelor
 românești din anii 1980 și 1990: familia HC, CIP, TIM-S, CoBra, JET, CUB Z, aMIC, PRAE-M și JUNIOR-XT. Fiecare nucleu
 este logica proprie a calculatorului și rulează programul său original (firmware); fiecare nucleu a fost rulat pe un
-MiSTer real. Alături de ele vine M-CRT, o presetare video pentru MiSTer.
+MiSTer real.
 
 ![HC-91, Turbo Pascal pe CUB Z, JUNIOR-XT, aMIC, PRAE-M și CP/M pe CoBra](assets/misterro-screenshot.jpg)
 
@@ -23,9 +23,6 @@ MiSTer real. Alături de ele vine M-CRT, o presetare video pentru MiSTer.
 | **PRAE** | ITC Cluj-Napoca | PRAE-M, BASIC 3.6 și 3.5 | nu | [PRAE](docs/prae/README.md) |
 | **JUNIORXT** | FEPER | JUNIOR-XT, BIOS 4.0, 3.0 și 5.0 | da | [JUNIOR-XT](docs/juniorxt/README.md) |
 
-[Presetarea M-CRT](docs/preset/README.md) dă oricărui nucleu MiSTer margini moi ale pixelilor, linii de baleiaj discrete
-și o curbă gamma potrivită.
-
 Programele originale nu sunt modificate niciodată, cu excepțiile numite în fiecare ghid: memoria ROM arhivată a
 aMIC-ului are două defecte reparate, TIM-S Plus pornește cu un încărcător înlocuitor, pentru că al său nu este arhivat,
 iar HC-88 pornește de pe o dischetă de sistem CP/M înlocuitoare. [Limitările](docs/NOTES.md#limitations) (în engleză)
@@ -33,13 +30,13 @@ spun ce nu se cunoaște sau nu este construit.
 
 ## Pornire rapidă
 
-1. Descărcați `MiSTerRO-<versiune>-<NUCLEU>.zip` pentru fiecare nucleu dorit; `MiSTerRO-<versiune>-MCRT.zip` este
-   presetarea.
+1. Descărcați `MiSTerRO-<versiune>-<NUCLEU>.zip` pentru fiecare nucleu dorit.
 2. Extrageți arhiva pe cardul MiSTer (`/media/fat`), păstrând căile.
 3. Alegeți nucleul la **Computers** în meniul MiSTer.
 
 O arhivă conține nucleul (`_Computer/`), programul original al calculatorului, un program demonstrativ și fișierele
-sale de suport (`games/<NUCLEU>/`) și această documentație (`docs/MiSTerRO/`). Programul original se încarcă singur la
+sale de suport (`games/<NUCLEU>/`), presetarea video [M-CRT](docs/preset/README.md) (`Filters/`, `Gamma/`, `Presets/`)
+și această documentație (`docs/MiSTerRO/`). Programul original se încarcă singur la
 pornirea nucleului. Secțiunea Start a fiecărui ghid arată cum se ajunge în BASIC sau în CP/M și cum se încarcă programul
 demonstrativ. Nucleele nu sunt însoțite de manuale sau scheme și nici de alte programe: casetele și dischetele sunt ale
 dumneavoastră. [Notele](docs/NOTES.md) (în engleză) enumeră ce pune fiecare arhivă pe card.
@@ -49,7 +46,8 @@ dumneavoastră. [Notele](docs/NOTES.md) (în engleză) enumeră ce pune fiecare 
 Toate nucleele au același meniu: mai întâi dischetele montate și caseta, apoi **System** (model, memorie, pornire,
 Load firmware), **Ports & Controllers** și **Audio & Video**, apoi **Reset**. Fiecare nucleu are **Aspect ratio**
 (Original, Full Screen, ARC1, ARC2) și **Scandoubler Fx** (None, HQ2x, CRT 25%, CRT 50%) și, acolo unde calculatorul avea
-un monitor propriu, o opțiune **Monitor**.
+un monitor propriu, o opțiune **Monitor**. **Video Processing → Load preset → M-CRT** dă imaginii margini moi ale
+pixelilor, linii de baleiaj discrete și o curbă gamma potrivită.
 
 | Tastă | |
 |---|---|

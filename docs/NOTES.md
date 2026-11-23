@@ -30,7 +30,7 @@ each model:
 | PRAE | `PRAE36`, `PRAE35` | |
 | JUNIORXT | | BIOS 3.0, 5.0 and 5.0-alt (`bios/`), the manual disk (`manual.img`), the character ROM |
 
-The M-CRT archive puts its files in `Filters/`, `Gamma/` and `Presets/`.
+Every archive also puts the M-CRT video preset in `Filters/`, `Gamma/` and `Presets/`.
 
 ## Firmware and media
 
