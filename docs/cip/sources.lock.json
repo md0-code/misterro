@@ -1,0 +1,79 @@
+{
+  "assets/roms/cip01.zip": {
+    "url": "https://www.z80-romania.ro/files/34/CIP-01%20%281988%29%28Electronica%29.rom.zip?1682208584",
+    "sha256": "7411dc868ca89c6ce40d6391818a7cac55d524f0584b05d7fbaec8101887f4b2",
+    "bytes": 1954
+  },
+  "assets/roms/proms.zip": {
+    "url": "https://www.z80-romania.ro/files/34/PROM-uri%20CIP.zip",
+    "sha256": "9b5252d02802f93de6b1e727a3dafe5522ec1af19dd7bf80fb921d6d2219aa29",
+    "bytes": 749
+  },
+  "docs/reference/schematics.pdf": {
+    "url": "https://www.z80-romania.ro/files/34/Schema%20electrica%CC%86%20CIP%20%281989%29%28Electronica%29%5B600dpi-Color%5D.pdf?1688590338",
+    "sha256": "2d5a653fc0d00fe4faaf6ac8d001f3c21e44a55ac59581d491678785d67adad3",
+    "bytes": 10561252
+  },
+  "assets/roms/cip03.zip": {
+    "url": "https://www.z80-romania.ro/files/63/CIP-03%20%281988%29%28Electronica%29.rom.zip?1722424361",
+    "sha256": "3a45117c9378975100d325818be48d1f0e15350bdc594647079688dbb1f4ee00",
+    "bytes": 12431
+  },
+  "assets/roms/cip04.zip": {
+    "url": "https://www.z80-romania.ro/files/96/CIP-04%20%281993%29%28Electronica%29.rom.zip?1770404383",
+    "sha256": "06829516751b4a519b0d4b6886648bb645c7ea0f0328e7d97d2b0a335b9bc8c5",
+    "bytes": 80498
+  },
+  "assets/roms/cip01.rom": {
+    "sha256": "4b75de3a67253cd06a428b9cdce6e586ed59c0ce1fd4526275b89e9866982fff",
+    "bytes": 2048
+  },
+  "assets/roms/cip03.rom": {
+    "sha256": "1a05ac4f7bd67521c7f2b51b617d2fe086e28e297ec7749049d544c3ec3e1bb6",
+    "bytes": 16384
+  },
+  "assets/roms/resident.rom": {
+    "sha256": "7dbc8329673e15c853433eb2a2ebc4bddedf2b4b8c44a2b5f9e2a3ebef399647",
+    "bytes": 18432
+  },
+  "assets/roms/cip04.rom": {
+    "sha256": "e8e822cdd205ed3cee95f8be51071cd7566c814019ffdfde5d268bf8f4037910",
+    "bytes": 65536
+  },
+  "assets/tapes/CipBas.mp3": {
+    "sha256": "6fd5e55d5e52d9564069a7a48f686f9aba556a2c656ee5e49ac9e0013f076cb8",
+    "bytes": 821288
+  },
+  "docs/reference/common/manual.pdf": {
+    "url": "https://www.z80-romania.ro/files/157/Manual de utilizare CIP (1989)(Electronica)(RO)[600dpi-Alb-Negru].pdf?1688591153",
+    "sha256": "67b71d0601d743b031a5c39a80e8e656ac77770dc6392af34baed64c850f5527",
+    "bytes": 6348676
+  },
+  "docs/reference/cip03/manual.pdf": {
+    "url": "https://www.z80-romania.ro/files/156/Manual de utilizare CIP-03 (1992)(Electronica)(RO)[600dpi-Alb-Negru].pdf?1688053834",
+    "sha256": "6e5dbf62e4ffe613d4d719003420febef02514196f08b818ea56615b6e4d1e51",
+    "bytes": 4569673
+  },
+  "assets/tapes/basic.tzx": {
+    "sha256": "9e2fb596c4b78af9ab3eb7ba43ab0816ba032b51e0b0ade48ce57dfbac3a1c5f",
+    "bytes": 16424
+  },
+  "docs/reference/common/schematic.pdf": {
+    "url": "https://www.z80-romania.ro/files/34/Schema electric\u0103 CIP (1989)(Electronica)[600dpi-Alb-Negru].pdf?1688590356",
+    "sha256": "9b5b9b0ecab6f6615edb0ead968bf156c21861eda8bdb4e721fc77114c029ef4",
+    "bytes": 457375
+  },
+  "assets/tapes/demo-presentation.tzx": {
+    "url": "https://www.z80-romania.ro/files/21/CIP-01 - p (1989)(Electronica)(RO).tzx?1684054081",
+    "sha256": "7a1cffd9e19ce9fd19637187a4b52d8d45661f476cf2745505d024895beb2bed",
+    "bytes": 42849
+  },
+  "assets/roms/family.rom": {
+    "parts": [
+      "assets/roms/resident.rom",
+      "assets/roms/cip04.rom"
+    ],
+    "sha256": "2bba53ae857cd94e13644f163a3d107130ffe01670dcad00c2cbdbb10b8ee410",
+    "bytes": 83968
+  }
+}

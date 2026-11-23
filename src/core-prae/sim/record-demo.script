@@ -1,0 +1,24 @@
+enter
+wait 1
+enter
+wait 1
+enter
+wait 1
+type 10 print 42
+enter
+wait 0.5
+type 20 end
+enter
+wait 0.5
+type run
+enter
+wait 0.5
+save program
+type asave "DEMO"
+record assets/tapes/demo.pzx
+enter
+wait 0.5
+save saving
+wait 12
+stop-record
+save saved

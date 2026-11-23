@@ -1,0 +1,22 @@
+{
+  "assets/roms/boot.rom": {
+    "bytes": 16384,
+    "sha256": "7fe40b1a70def2afc6f8c7c5eb5d1668a6dbe6d377d25b8e0676ebeb978fbef4",
+    "derived": true
+  },
+  "assets/roms/compatibility.py": {
+    "bytes": 579,
+    "sha256": "48557c9371d7762b7953a7304a3e9921dc96fa76a13f1558df7ffd1a205db6bf",
+    "derived": true
+  },
+  "assets/roms/original.rom": {
+    "bytes": 16384,
+    "sha256": "f968800950af4699a1131cad56ded283834333075a6c9056b0e1b7dd2d344052",
+    "derived": true
+  },
+  "assets/tapes/demo.pzx": {
+    "bytes": 61276,
+    "sha256": "232a755c7537bb2d0cf004271d968cdba388e7d9bb4ccc6ec3f08f5d39497a70",
+    "derived": true
+  }
+}

@@ -1,0 +1,14 @@
+press 172
+press 5a
+run .3
+press 4d
+press 2d
+press 43
+press 31
+press 2c
+press 29
+press 1e
+matrix 1100000000 .08
+press 1e
+press 5a
+run .3

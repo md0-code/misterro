@@ -1,0 +1,15 @@
+{
+  "cassette": {
+    "arguments": [
+      "--seconds",
+      "2",
+      "--script",
+      "sim/load-demo.script"
+    ],
+    "screen": [
+      "JET",
+      "DEMO",
+      "^\\s*42\\s*$"
+    ]
+  }
+}

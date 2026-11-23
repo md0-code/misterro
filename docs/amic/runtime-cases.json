@@ -1,0 +1,54 @@
+{
+  "basic32": {
+    "arguments": [
+      "--seconds",
+      "1",
+      "--script",
+      "sim/basic.script"
+    ],
+    "screen": [
+      "^\\s*42\\s*$",
+      "READY"
+    ]
+  },
+  "basic16": {
+    "arguments": [
+      "--seconds",
+      "1",
+      "--status",
+      "512",
+      "--script",
+      "sim/basic.script"
+    ],
+    "screen": [
+      "^\\s*42\\s*$",
+      "READY"
+    ]
+  },
+  "basic48": {
+    "arguments": [
+      "--seconds",
+      "1",
+      "--status",
+      "1024",
+      "--script",
+      "sim/basic.script"
+    ],
+    "screen": [
+      "^\\s*42\\s*$",
+      "READY"
+    ]
+  },
+  "cassette": {
+    "arguments": [
+      "--seconds",
+      "1",
+      "--script",
+      "sim/load-demo.script"
+    ],
+    "screen": [
+      "^\\s*42\\s*$",
+      "READY"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "assets/roms/boot.rom": {
+    "bytes": 32768,
+    "sha256": "9105394585d9e388360325e84f3aa7ddc083c4228bce09328240070c8f0c4a95",
+    "derived": true
+  },
+  "assets/roms/prae-3.5-inverted.rom": {
+    "bytes": 16384,
+    "sha256": "46fdb6719b9965492e2abcb00adf7f0d8d8f0d7896b026e4e5e70781e768eed1",
+    "derived": true
+  },
+  "assets/roms/prae-3.5-normal.rom": {
+    "bytes": 16384,
+    "sha256": "1062733ce3835c8b49c098bbd9aab87076ee6ca3d5cdd311ee9cb0ee52818ac4",
+    "derived": true
+  },
+  "assets/roms/prae-3.6-inverted.rom": {
+    "bytes": 16384,
+    "sha256": "dc8c646c4eaf515bcb75bcca950df3e9242ffeb0058ead48d134e6d753c33b09",
+    "derived": true
+  },
+  "assets/tapes/adv_a.wav": {
+    "bytes": 6704282,
+    "sha256": "a40200286c00bf82cac7aea705cb87be493992e7e1995aad534e63cf3fbb0e99",
+    "derived": true
+  },
+  "assets/tapes/demo.pzx": {
+    "bytes": 13280,
+    "sha256": "e62334ddcc6a3bcf8a9581c221cb07d5829de920e6a4a307fa84b1aac0f87a4e",
+    "derived": true
+  },
+  "assets/tapes/mman.wav": {
+    "bytes": 3318630,
+    "sha256": "c41a7aa76380c04ac81c4607a777425870b08b702c615d0b27c546d77a10709b",
+    "derived": true
+  },
+  "assets/tapes/wall.wav": {
+    "bytes": 2378272,
+    "sha256": "7fb9872ff32c7db9013f2863f55bb4833152c22136543402e7e2da0b293007e6",
+    "derived": true
+  }
+}

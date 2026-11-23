@@ -1,0 +1,6 @@
+press 23
+press 43
+press 2d
+press 5a
+cpm_ready
+run .1

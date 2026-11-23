@@ -1,0 +1,5 @@
+type b
+wait 2
+type p42
+enter
+wait 1

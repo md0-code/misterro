@@ -1,0 +1,66 @@
+; SPDX-License-Identifier: GPL-3.0-or-later
+org 0
+ di
+ ld sp,0xbff0
+ jp start
+org 0x100
+start:
+ ld hl,payload
+ ld de,0x8000
+ ld bc,payload_end-payload
+ ldir
+ jp 0x8000
+payload:
+ ld a,0x55
+ call 8
+ ld (0x9000),a
+ ld a,0x77
+ call 0x1708
+ ld (0x9001),a
+ ld a,(0x700)
+ ld (0x9002),a
+ ld a,2
+ out (0x7e),a
+ xor a
+ out (0xc7),a
+ ld a,0x66
+ ld (0),a
+ ld a,(0)
+ ld (0x9003),a
+ out (0xc5),a
+ xor a
+ out (0x7e),a
+ ld a,(0)
+ ld (0x9004),a
+ ld a,0x31
+ out (0xef),a
+ xor a
+ out (0xf7),a
+ in a,(0xf7)
+ ld (0x9005),a
+ ld a,0x20
+ out (0xef),a
+ in a,(0xef)
+ ld (0x9006),a
+ ld a,1
+ out (0xf7),a
+ in a,(0xef)
+ ld (0x9007),a
+ xor a
+ out (0xef),a
+ ld a,0x6c
+ ld (0x900b),a
+ ld a,0x1a
+ out (7),a
+ in a,(5)
+ ld (0x9008),a
+ in a,(0x85)
+ ld (0x9009),a
+ in a,(0x1f)
+ ld (0x900a),a
+ ld a,0x1c
+ out (7),a
+ ld a,0x5a
+ ld (0x90ff),a
+ halt
+payload_end:

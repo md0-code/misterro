@@ -1,0 +1,42 @@
+{
+  "bios-3.0.zip": {
+    "url": "https://www.z80-romania.ro/files/162/BIOS - Microcalculatorul JUNIOR-XT Ver 3.0 (1989)(FEPER)(RO).zip?1741794253",
+    "sha256": "4f8d898bbd82cb5046ed3ce34c8d9839ff06194fabdf29ed576435a9d4fa60b2",
+    "bytes": 7752
+  },
+  "bios-4.0.zip": {
+    "url": "https://www.z80-romania.ro/files/162/BIOS - Microcalculatorul JUNIOR-XT Ver 4.0 (1989)(FEPER)(RO).zip?1741794261",
+    "sha256": "623d963619609d5bfe6f803b8a6c9d0fbe333de4f97e95968d63b75061e8034d",
+    "bytes": 7946
+  },
+  "bios-5.0.zip": {
+    "url": "https://www.z80-romania.ro/files/162/BIOS - Microcalculatorul JUNIOR-XT Ver 5.0 (1989)(FEPER)(RO).zip?1741794271",
+    "sha256": "83fb17e288abf328d2b335fbb4298231694ffed9ad38e3975c8b9d6be721f4fe",
+    "bytes": 7922
+  },
+  "bios-5.0-alt.zip": {
+    "url": "https://www.z80-romania.ro/files/162/BIOS - Microcalculatorul JUNIOR-XT Ver 5.0 (1989)(FEPER)(RO)[a].zip?1741794278",
+    "sha256": "ceb684da4f5ca9a542a08d3bca7dbee8117b057bbd0076ebec199b39b897cf6d",
+    "bytes": 7700
+  },
+  "video.zip": {
+    "url": "https://www.z80-romania.ro/files/162/BIOS - Video CGA JUNIOR-XT (1989)(FEPER)(RO).zip?1741794324",
+    "sha256": "e7358bfa07e8d9849ecf9690a2aebcc21cb2ae4c8dd02f07181b9e0dfe5b51ff",
+    "bytes": 1250
+  },
+  "manual.pdf": {
+    "url": "https://www.z80-romania.ro/files/162/Carte tehnica\u0306 - Microcalculatorul JUNIOR-XT (1989)(FEPER)(RO)[600dpi-Alb-Negru].pdf?1741794340",
+    "sha256": "f6a89dc017c723eaa3a9b0264ffc57696034a741ddd3aa75d3990f4e78a70b3d",
+    "bytes": 5489957
+  },
+  "schematic.pdf": {
+    "url": "https://www.z80-romania.ro/files/162/Scheme electrice - Microcalculatorul JUNIOR-XT (1989)(FEPER)(RO)[600dpi-Alb-Negru].pdf?1741794368",
+    "sha256": "3cd6b4340116b3292d602f4ffb4307a29f1f03e2c587ee8d8fe613efeab822b3",
+    "bytes": 3502091
+  },
+  "freedos360.img": {
+    "url": "https://jorisvr.nl/files/freedos360k_1_20061014.img",
+    "bytes": 368640,
+    "sha256": "b5c3a868a375952e52ed89feecfdb0a90c96af32bf0663e424a7bdd3f15b1a48"
+  }
+}

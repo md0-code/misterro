@@ -1,0 +1,22 @@
+{
+  "TIMS": {
+    "scope": "TIMS native hardware, firmware and runtime media",
+    "files": {
+      "demo.tap": "assets/tapes/demo.tap",
+      "support/basic.rom": "assets/roms/tims-standard.rom",
+      "support/printer.prn": "assets/support/printer.prn"
+    },
+    "labels": {}
+  },
+  "TIMSPLUS": {
+    "scope": "TIMSPLUS native hardware, firmware and runtime media",
+    "files": {
+      "demo.tap": "assets/tapes/demo.tap",
+      "support/system.rom": "assets/roms/plus3-system.rom",
+      "support/bootstrap.rom": "assets/roms/plus-loader.rom",
+      "support/blank.dsk": "assets/disks/blank.dsk",
+      "support/printer.prn": "assets/support/printer.prn"
+    },
+    "labels": {}
+  }
+}

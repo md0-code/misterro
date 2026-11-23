@@ -1,0 +1,6 @@
+{
+  "name": "AMIC",
+  "clock_hz": 40000000,
+  "firmware_bytes": 16384,
+  "requires_sdram": false
+}

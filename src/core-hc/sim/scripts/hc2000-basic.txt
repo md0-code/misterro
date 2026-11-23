@@ -1,0 +1,16 @@
+press 4d
+press 1e
+matrix 1100000000 .08
+press 1e
+press 5a
+basic_ready
+run .2
+reset
+run 3
+press 4d
+press 26
+matrix 1100000000 .08
+press 26
+press 5a
+basic_ready
+run .2

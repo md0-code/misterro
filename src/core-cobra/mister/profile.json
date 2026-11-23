@@ -1,0 +1,6 @@
+{
+  "name": "COBRA",
+  "clock_hz": 56000000,
+  "firmware_bytes": 81920,
+  "requires_sdram": false
+}

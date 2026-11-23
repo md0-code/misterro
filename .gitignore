@@ -1,0 +1,26 @@
+# Development files kept locally, never committed.
+/AGENTS.md
+/PLAN.md
+/TODO.md
+/ISSUES.md
+/docs/DEVELOPMENT.md
+/docs/dev/
+# Scratch and development tools; build trees and deployment receipts; release archives.
+/work/
+/build/
+/dist/
+/src/core-*/build/
+/src/core-*/dist/
+/src/shared/romanian/build/
+# Firmware, tapes, disks and other third-party files: in the release's assets archive, never committed
+# (tools/assets.py). A core's own sources among its assets (*.py, *.asm) are committed.
+/src/core-*/assets/**
+!/src/core-*/assets/**/
+!/src/core-*/assets/**/*.py
+!/src/core-*/assets/**/*.asm
+# Reference documents the tools download, and working notes on them.
+/docs/*/reference/
+/docs/*/analysis/
+# Tool output.
+__pycache__/
+*.pyc

@@ -1,0 +1,12 @@
+type j""
+enter
+save command
+play assets/tapes/demo.tap
+wait 5.2
+save header
+wait 1
+save gap
+wait 2.5
+save data
+wait 4
+save end

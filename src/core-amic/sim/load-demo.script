@@ -1,0 +1,11 @@
+type g0800
+enter
+wait 1
+type loa
+enter
+wait 0.5
+play assets/tapes/demo.pzx
+wait 14
+type run
+enter
+wait 1

@@ -1,0 +1,8 @@
+{
+  "spectrum": {
+    "url": "https://github.com/MiSTer-devel/ZX-Spectrum_MISTer.git",
+    "commit": "8502d492a3ad89c68413b2f0e2e4cf947dab42ba"
+  },
+  "ghdl_image": "ghdl/ghdl@sha256:a47cb02fe16a2751472b48e73626898598e74fe20160f3d6299c6c8b5f9de858",
+  "quartus_image": "raetro/quartus@sha256:55442b161163dc7723e3d4917ce046fcb682478365fe9320756c9a4ae7d7d4ce"
+}

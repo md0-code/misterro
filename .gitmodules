@@ -1,0 +1,12 @@
+[submodule "cip-spectrum"]
+	path = src/core-cip/vendor/spectrum
+	url = https://github.com/MiSTer-devel/ZX-Spectrum_MISTer.git
+[submodule "hc-spectrum"]
+	path = src/core-hc/vendor/spectrum
+	url = https://github.com/MiSTer-devel/ZX-Spectrum_MISTer.git
+[submodule "cubz-spectrum"]
+	path = src/core-cubz/vendor/spectrum
+	url = https://github.com/MiSTer-devel/ZX-Spectrum_MISTer.git
+[submodule "juniorxt-pcxt"]
+	path = src/core-juniorxt/vendor/pcxt
+	url = https://github.com/MiSTer-devel/PCXT_MiSTer.git

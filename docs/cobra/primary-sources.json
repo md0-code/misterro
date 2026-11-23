@@ -1,0 +1,14 @@
+[
+  {
+    "path": "docs/reference/cpm-manual.pdf",
+    "url": "https://www.z80-romania.ro/files/166/CoBra - Manual CP-M v1.0 (1988)(ITC Bras\u0326ov)(RO).pdf?1690098424",
+    "sha256": "740875c06f059d82f6794c3ab5033922ef4d335f19cd6e44fb566da4ccec1feb",
+    "bytes": 245298
+  },
+  {
+    "path": "docs/reference/manual.pdf",
+    "url": "https://www.z80-romania.ro/files/158/CoBra Hardware Manual rev.1.0 (1988)(ITCI Bras\u0326ov)(RO)[en].pdf?1689779392",
+    "sha256": "43b887f156db1543d5ff3f1710443d1019c22147d17aed33345a2d1f2a314175",
+    "bytes": 5223726
+  }
+]

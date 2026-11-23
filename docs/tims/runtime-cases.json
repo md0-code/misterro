@@ -1,0 +1,27 @@
+{
+  "standard-cassette": {
+    "arguments": [
+      "--seconds",
+      "2",
+      "--script",
+      "sim/load-demo.script"
+    ],
+    "screen": [
+      "TIM",
+      "DEMO",
+      "^\\s*42\\s*$"
+    ]
+  },
+  "plus-menu": {
+    "arguments": [
+      "--seconds",
+      "6",
+      "--status",
+      "64"
+    ],
+    "screen": [
+      "Loader",
+      "Calculator"
+    ]
+  }
+}

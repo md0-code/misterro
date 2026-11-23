@@ -1,0 +1,9 @@
+{
+  "JET": {
+    "scope": "JET native hardware, firmware and runtime media",
+    "files": {
+      "demo.tap": "assets/tapes/demo.tap"
+    },
+    "labels": {}
+  }
+}

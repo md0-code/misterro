@@ -1,0 +1,16 @@
+* text=auto
+*.py text eol=lf
+*.ps1 text eol=crlf
+*.png binary
+*.pdf binary
+*.rbf binary
+*.rom binary
+*.bin binary
+*.zip binary
+*.mp3 binary
+*.wav binary
+*.img binary
+*.dsk binary
+*.ico binary
+*.jpg binary
+src/core-*/assets/** -text

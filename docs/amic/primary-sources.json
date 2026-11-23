@@ -1,0 +1,20 @@
+[
+  {
+    "path": "docs/reference/volume-1.pdf",
+    "url": "https://www.z80-romania.ro/files/23/Totul despre... calculatorul personal aMIC (1985)(Petrescu, Adrian)(RO)(Vol 1)[600dpi-Alb-Negru].pdf?1682243820",
+    "sha256": "4081b3584905faeccaf128e164f9ee049357af361dfcee68677e276e45e6d7b0",
+    "bytes": 18341915
+  },
+  {
+    "path": "docs/reference/volume-2.pdf",
+    "url": "https://www.z80-romania.ro/files/23/Totul despre... calculatorul personal aMIC (1985)(Petrescu, Adrian)(RO)(Vol 2)[600dpi-Alb-Negru].pdf?1682243859",
+    "sha256": "91cbdeaffbc0b01b18f40d3bb471f37f5798be8e8a847a2eb3240f106a496422",
+    "bytes": 15264437
+  },
+  {
+    "path": "docs/reference/original-sources/aMIC (1983)(ITC Bucuresti).rom.zip",
+    "url": "https://www.z80-romania.ro/files/95/aMIC (1983)(ITC Bucuresti).rom.zip?1722419675",
+    "sha256": "ead4b3ef015b640c4db621b87f44d1cf589ebc87483872e7e15144f6f56f79c2",
+    "bytes": 27626
+  }
+]

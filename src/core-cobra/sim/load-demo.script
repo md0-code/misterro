@@ -1,0 +1,6 @@
+type b
+wait 2
+type j""
+enter
+play assets/tapes/demo.tap
+wait 11

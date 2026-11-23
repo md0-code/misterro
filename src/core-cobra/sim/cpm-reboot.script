@@ -1,0 +1,5 @@
+type d
+wait 3
+type dir
+enter
+wait 1

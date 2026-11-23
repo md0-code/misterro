@@ -1,0 +1,11 @@
+type d
+wait 3
+type dir
+enter
+wait 0.5
+type save 1 probe.com
+enter
+wait 1
+type dir
+enter
+wait 1

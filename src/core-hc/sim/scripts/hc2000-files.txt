@@ -1,0 +1,35 @@
+press 1b
+press 1c
+press 2a
+press 24
+press 29
+press 16
+press 29
+press 21
+press 33
+press 24
+press 21
+press 42
+press 49
+press 21
+press 44
+press 3a
+press 5a
+cpm_ready
+press 23
+press 43
+press 2d
+press 5a
+cpm_ready
+run .5
+press 32
+matrix 1000000002 .08
+press 5a
+cpm_ready
+run .3
+press 23
+press 43
+press 2d
+press 5a
+cpm_ready
+run .5

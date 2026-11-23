@@ -1,0 +1,30 @@
+{
+  "basic36-cassette": {
+    "arguments": [
+      "--seconds",
+      "0.2",
+      "--script",
+      "sim/load-demo.script"
+    ],
+    "screen": [
+      "3.6",
+      "^\\s*42\\s*$",
+      "READY"
+    ]
+  },
+  "basic35-cassette": {
+    "arguments": [
+      "--seconds",
+      "0.2",
+      "--status",
+      "64",
+      "--script",
+      "sim/load-demo.script"
+    ],
+    "screen": [
+      "3.5",
+      "^\\s*42\\s*$",
+      "READY"
+    ]
+  }
+}

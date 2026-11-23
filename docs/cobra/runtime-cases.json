@@ -1,0 +1,64 @@
+{
+  "basic64": {
+    "arguments": [
+      "--seconds",
+      "1",
+      "--status",
+      "64",
+      "--script",
+      "sim/basic.script"
+    ],
+    "screen": [
+      "^\\s*42\\s*$"
+    ]
+  },
+  "basic80-cassette": {
+    "arguments": [
+      "--seconds",
+      "1",
+      "--script",
+      "sim/load-demo.script"
+    ],
+    "screen": [
+      "COBRA",
+      "DEMO",
+      "^\\s*42\\s*$"
+    ]
+  },
+  "cpm-files": {
+    "arguments": [
+      "--seconds",
+      "1",
+      "--disk",
+      "0",
+      "assets/disks/system.dsk",
+      "--script",
+      "sim/cpm-files.script"
+    ],
+    "screen": [
+      "CBOT",
+      "PROBE"
+    ],
+    "minimum_sd_reads": 50,
+    "minimum_sd_writes": 1,
+    "disk_contains_hex": {
+      "0": "0050524f4245202020434f4d"
+    }
+  },
+  "cpm-reboot": {
+    "arguments": [
+      "--seconds",
+      "1",
+      "--disk",
+      "0",
+      "build/verify-cpm-files-disk0.dsk",
+      "--script",
+      "sim/cpm-reboot.script"
+    ],
+    "screen": [
+      "CBOT",
+      "PROBE"
+    ],
+    "minimum_sd_reads": 50
+  }
+}

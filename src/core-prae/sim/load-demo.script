@@ -1,0 +1,14 @@
+enter
+wait 1
+enter
+wait 1
+enter
+wait 1
+type aload "DEMO"
+enter
+wait 0.5
+play assets/tapes/demo.pzx
+wait 14
+type run
+enter
+wait 1

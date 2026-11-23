@@ -1,0 +1,7 @@
+{
+  "pcxt": {
+    "url": "https://github.com/MiSTer-devel/PCXT_MiSTer.git",
+    "commit": "fa80b4050b1d790425f56edf22411914a18d6a5e"
+  },
+  "quartus_image": "raetro/quartus@sha256:55442b161163dc7723e3d4917ce046fcb682478365fe9320756c9a4ae7d7d4ce"
+}

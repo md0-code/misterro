@@ -1,0 +1,20 @@
+[
+  {
+    "path": "docs/reference/original-sources/PRAE Software.zip",
+    "url": "https://www.z80-romania.ro/files/4/PRAE Software.zip?1722418428",
+    "sha256": "5123c70d7914ad9cbdbf2389dab05b2ed2769b4c6f23868341596cede97611fd",
+    "bytes": 26267951
+  },
+  {
+    "path": "docs/reference/original-sources/PRAE-M BASIC v3.5 (1983)(ITC Cluj Napoca).rom.zip",
+    "url": "https://www.z80-romania.ro/files/4/PRAE-M BASIC v3.5 (1983)(ITC Cluj Napoca).rom.zip?1722418261",
+    "sha256": "38c94f229472ff0cb3022069c48b5b21446db172ac89b4c18465132c2e1961e0",
+    "bytes": 41600
+  },
+  {
+    "path": "docs/reference/original-sources/PRAE-M BASIC v3.6 (1983)(ITC Cluj Napoca).rom.zip",
+    "url": "https://www.z80-romania.ro/files/4/PRAE-M BASIC v3.6 (1983)(ITC Cluj Napoca).rom.zip?1722418268",
+    "sha256": "25f8c32ee4b6949009689e6c2d6f07cb3e6564bff778fa3b1875c4564c3217f9",
+    "bytes": 41603
+  }
+]

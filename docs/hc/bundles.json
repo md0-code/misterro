@@ -1,0 +1,94 @@
+{
+ "HC85": {
+  "scope": "Original HC85 48 KiB BASIC machine with optional original Interface 1 disk/serial/network hardware; complete demonstration cassette.",
+  "files": {
+   "boot.rom": "assets/roms/hc85.rom",
+   "demo.tzx": "assets/tapes/hc85/demo.tzx",
+   "support/interface1.rom": "assets/roms/if85.rom",
+   "support/blank.dsk": "assets/disks/hc85/blank.dsk"
+  },
+  "labels": {
+   "support/blank.dsk": "Blank 40-track double-sided 320K container for the bundled IF1 ROM; initialize with FORMAT \"d\";1"
+  }
+ },
+ "HC90": {
+  "scope": "Original HC90 48 KiB BASIC machine with optional original Interface 1 disk/serial/network hardware; complete demonstration cassette.",
+  "files": {
+   "boot.rom": "assets/roms/hc90.rom",
+   "demo.tzx": "assets/tapes/hc90/demo.tzx",
+   "support/interface1.rom": "assets/roms/if90.rom",
+   "support/system.dsk": "assets/disks/hc91/system.dsk",
+   "support/system2.dsk": "assets/disks/hc91/system2.dsk",
+   "support/system3.dsk": "assets/disks/hc91/system3.dsk",
+   "support/system4.dsk": "assets/disks/hc91/system4.dsk",
+   "support/system5.dsk": "assets/disks/hc91/system5.dsk",
+   "support/system6.dsk": "assets/disks/hc91/system6.dsk",
+   "support/system7.dsk": "assets/disks/hc91/system7.dsk",
+   "support/cpm.rom": "assets/roms/hc-family-cpm.rom"
+  },
+  "labels": {
+   "support/cpm.rom": "Compatibility entry bridge with the unchanged original HC2000 Rev-E CP/M BIOS; not a recovered model-specific ROM"
+  }
+ },
+ "HC91": {
+  "scope": "Original HC91 48 KiB BASIC machine with optional original Interface 1 disk/serial/network hardware; complete demonstration cassette.",
+  "files": {
+   "boot.rom": "assets/roms/hc91.rom",
+   "demo.tzx": "assets/tapes/hc91/demo.tzx",
+   "support/interface1.rom": "assets/roms/if90.rom",
+   "support/system.dsk": "assets/disks/hc91/system.dsk",
+   "support/system2.dsk": "assets/disks/hc91/system2.dsk",
+   "support/system3.dsk": "assets/disks/hc91/system3.dsk",
+   "support/system4.dsk": "assets/disks/hc91/system4.dsk",
+   "support/system5.dsk": "assets/disks/hc91/system5.dsk",
+   "support/system6.dsk": "assets/disks/hc91/system6.dsk",
+   "support/system7.dsk": "assets/disks/hc91/system7.dsk",
+   "support/cpm.rom": "assets/roms/hc-family-cpm.rom"
+  },
+  "labels": {
+   "support/cpm.rom": "Compatibility entry bridge with the unchanged original HC2000 Rev-E CP/M BIOS; not a recovered model-specific ROM"
+  }
+ },
+ "HC88": {
+  "scope": "HC-88 original 2 KiB bootstrap, 64 KiB system RAM plus 16 KiB video RAM, native 8272 disk boot and 512-pixel display. Replacement CP/M/BASIC disk; the HC85 cassette is a labelled HC-family reference.",
+  "labels": {
+   "demo.tzx": "HC85 demonstration cassette - HC-family BASIC reference",
+   "support/system.dsk": "Replacement CP/M 2.2 system disk; not an original HC88 release"
+  },
+  "files": {
+   "boot.rom": "assets/roms/hc88.rom",
+   "demo.tzx": "assets/tapes/hc85/demo.tzx",
+   "support/system.dsk": "assets/disks/hc88/system.dsk"
+  }
+ },
+ "HC128": {
+  "scope": "HC-91 Plus / HC-128: original 32K ROM, 128K banked RAM, optional AY-3-8912 and HC90/91 Interface 1. The HC91 cassette is a labelled family reference.",
+  "labels": {
+   "demo.tzx": "HC91 demonstration cassette - family compatibility reference",
+   "support/cpm.rom": "Compatibility entry bridge with the unchanged original HC2000 Rev-E CP/M BIOS; not a recovered model-specific ROM"
+  },
+  "files": {
+   "boot.rom": "assets/roms/hc128.rom",
+   "demo.tzx": "assets/tapes/hc91/demo.tzx",
+   "support/interface1.rom": "assets/roms/if90.rom",
+   "support/system.dsk": "assets/disks/hc91/system.dsk",
+   "support/cpm.rom": "assets/roms/hc-family-cpm.rom"
+  }
+ },
+ "HC2000": {
+  "scope": "HC2000: original BASIC/CPM firmware, 64K RAM and built-in 8272 floppy/serial interface. Original 720K system and demonstration disks. HC91 cassette is a labelled family reference.",
+  "labels": {
+   "demo.tzx": "HC91 demonstration cassette - family BASIC reference",
+   "support/external.dsk": "Original HC91 360K CP/M disk matching the bundled HC2000 v1 external-drive layout"
+  },
+  "files": {
+   "boot.rom": "assets/roms/hc2000-0.rom",
+   "demo.tzx": "assets/tapes/hc91/demo.tzx",
+   "support/cpm.rom": "assets/roms/hc2000-1.rom",
+   "support/interface1.rom": "assets/roms/if90.rom",
+   "support/system.dsk": "assets/disks/hc2000/system.dsk",
+   "support/demo.dsk": "assets/disks/hc2000/demo.dsk",
+   "support/external.dsk": "assets/disks/hc91/system.dsk"
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+  "assets/disks/system.dsk": {
+    "bytes": 778496,
+    "sha256": "a6e83e3cafa1730e8157f87ab710ec4774e4007ffbeddba8af4b5c4f1206efbb",
+    "derived": true
+  },
+  "assets/roms/boot.rom": {
+    "bytes": 81920,
+    "sha256": "befb9116772456bbbabe9b44258f3fe5ecf3b33049be9612073707716c7f456a",
+    "derived": true
+  },
+  "assets/roms/boot_2k_cobra_64k.rom": {
+    "bytes": 2048,
+    "sha256": "8b66b2a137805bc8560adfe848897436ffa584dec509519f4b5ce5ebf7283687",
+    "derived": true
+  },
+  "assets/roms/boot_2k_cobra_80k.rom": {
+    "bytes": 2048,
+    "sha256": "e4ee921f66c33d45243cc7c2640987a4ee25cbf2cc44af065ecda978745cd65b",
+    "derived": true
+  },
+  "assets/tapes/demo.tap": {
+    "bytes": 63,
+    "sha256": "9f56b1fa897fdc44a9294ff7866c4cf04b2c9f39e82186699d2f26b0728745b3",
+    "derived": true
+  }
+}

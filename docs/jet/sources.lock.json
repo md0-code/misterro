@@ -1,0 +1,12 @@
+{
+  "assets/roms/boot.rom": {
+    "bytes": 16384,
+    "sha256": "f3c220e4ebbce7a2e21890ce1735bc073e90a08c51019cf5c5b7132de5cc9232",
+    "derived": true
+  },
+  "assets/tapes/demo.tap": {
+    "bytes": 61,
+    "sha256": "18bd0ba9e0024cdef3df6168fde2e804f09e64b6c6a6f27fc550e83262748342",
+    "derived": true
+  }
+}

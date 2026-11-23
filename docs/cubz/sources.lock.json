@@ -1,0 +1,154 @@
+{
+  "assets/roms/v13.zip": {
+    "url": "https://www.z80-romania.ro/files/173/CUB-Z - EPROMs v1.3 (1986)(ICE Felix)(RO).rom.zip?1725530021",
+    "sha256": "ec53e8cb35826c6b62389606d7c9758280190b5fab5fc816b8bd0919a7b094a7",
+    "bytes": 4855
+  },
+  "assets/roms/v14.zip": {
+    "url": "https://www.z80-romania.ro/files/173/CUB-Z - EPROMs v1.4 (1986)(ICE Felix)(RO).rom.zip?1725530028",
+    "sha256": "7f1a5a5334400ad8cb91de4239fe7868dcc3038d44435f2b21657ce1ee22fc33",
+    "bytes": 4791
+  },
+  "assets/roms/sync.zip": {
+    "url": "https://www.z80-romania.ro/files/173/CUB-Z - PROM H & V (1986)(ICE Felix)(RO).rom.zip?1741801250",
+    "sha256": "6d6891ae44d012b2155826e663e06ddcc7d3503cc3baaf41ad8d66a2061708e5",
+    "bytes": 1037
+  },
+  "assets/roms/keyboard.zip": {
+    "url": "https://www.z80-romania.ro/files/173/CUB-Z - VDT52S - EPROM Tastatur\u0103 (1986)(ICE Felix)(RO).rom.zip?1741803544",
+    "sha256": "77a2ad899008c3d6806b17585b6af65a4ac8260c04043f64e46ad06f5c697ca6",
+    "bytes": 850
+  },
+  "docs/reference/keyboard-schematic.pdf": {
+    "url": "https://www.z80-romania.ro/files/173/CUB-Z - VDT52S - Scheme Tastatura\u0306 (1986)(ICE Felix)(RO)[600dpi-Color].pdf?1741802363",
+    "sha256": "d12ab887f8f74912d961760119f17e0f11d5f1aceb7cb6317e1f1f36d2438f8f",
+    "bytes": 30643752
+  },
+  "docs/reference/vdt52s-conversion.docx": {
+    "url": "https://www.z80-romania.ro/files/173/Modificare VDT 52S - CUB-Z.docx?1741801275",
+    "sha256": "60be027b2b18d5b6cf8ac6e947f3cc3b8818855f5554723b4614fe7605b9da95",
+    "bytes": 3034376
+  },
+  "docs/reference/manual.pdf": {
+    "url": "https://www.z80-romania.ro/files/172/Manual tehnic CUB-Z (1989)(ICE Felix)(RO)[600dpi-Alb-Negru].pdf?1692386920",
+    "sha256": "f3b758ac60225bcb801f2cfcafaa985b0e6cc2bd576def19f5be81e750139aee",
+    "bytes": 4693810
+  },
+  "docs/reference/schematic.pdf": {
+    "url": "https://www.z80-romania.ro/files/172/Scheme electrice - CUB-Z (1989)(ICE Felix)(RO)[600dpi-Alb-Negru].pdf?1692386980",
+    "sha256": "9185f47766aea1d2ead6476d7cffb119fa88ff27ab30369bd738967b25fe4d2e",
+    "bytes": 1653036
+  },
+  "assets/disks/cpm.dsk": {
+    "url": "https://www.z80-romania.ro/files/268/CUB-Z - CPM Disk (1986)(ICE Felix)(RO).dsk?1741803042",
+    "sha256": "7ea2239733f01cbe70c4341fe40fc2600ff99128c33f5d8000582cb32d475d8a",
+    "bytes": 772971
+  },
+  "assets/roms/vdt52s.zip": {
+    "url": "https://www.z80-romania.ro/files/236/VDT-52S - EPROMs (1989)(ICE Felix)(RO).rom.zip?1725530000",
+    "sha256": "f9cc6f6ff5a3814cb9dd87a41d5cc35d2699ad9fcddd2e938b2a682abce6c42b",
+    "bytes": 5353
+  },
+  "docs/reference/vdt52s-schematic.pdf": {
+    "url": "https://www.z80-romania.ro/files/236/User Manual - VDT-52S Extras - Schematics (1989)(ICE Felix)(EN)[600dpi-Alb-Negru].pdf?1706430255",
+    "sha256": "9fdf19dc90a5426ecbd21fc12436706039c92de4c259329422584e126c41ea43",
+    "bytes": 37758799
+  },
+  "docs/reference/vdt52s-manual.pdf": {
+    "url": "https://www.z80-romania.ro/files/236/User Manual - VDT-52S (1989)(ICE Felix)(EN)[600dpi-Alb-Negru].pdf?1706430244",
+    "sha256": "7b5ecce2c5783858cb6ab8371ff16ab1bf9c743930941deddd4b66acf3d970d5",
+    "bytes": 4298352
+  },
+  "assets/roms/v13-u74.bin": {
+    "from": "assets/roms/v13.zip",
+    "member": "CUB-Z_v1.3_U7.4.BIN",
+    "sha256": "22540ab4887f6d307d668643e1c4fb0832add648100bfa6dce31c440dda8a60f",
+    "bytes": 2048
+  },
+  "assets/roms/v13-u72.bin": {
+    "from": "assets/roms/v13.zip",
+    "member": "CUB-Z_v1.3_U7.2.BIN",
+    "sha256": "9b7fe6db192b0f0c542d9b3e8d0850dd1fa66cb83613c203bc02e9d71d9a4475",
+    "bytes": 2048
+  },
+  "assets/roms/v13-u62.bin": {
+    "from": "assets/roms/v13.zip",
+    "member": "CUB-Z_v1.3_U6.2.BIN",
+    "sha256": "09d04f874f83ab8addf5835b0a96a5da848fef47ef63ab6d5f6aefc04fb62180",
+    "bytes": 2048
+  },
+  "assets/roms/v14-u72.bin": {
+    "from": "assets/roms/v14.zip",
+    "member": "CUB-Z_v1.4_U7.2.bin",
+    "sha256": "4a58b025e6eee1bd086e0aed4101ab67885ea03c8eb86aaa788d439db6e1bb11",
+    "bytes": 2048
+  },
+  "assets/roms/v14-u74.bin": {
+    "from": "assets/roms/v14.zip",
+    "member": "CUB-Z_v1.4_U7.4.bin",
+    "sha256": "c58c5cf241130481e3371e6e3441f55db507216e9d177039d7a9ab2949f08a12",
+    "bytes": 2048
+  },
+  "assets/roms/v14-u62.bin": {
+    "from": "assets/roms/v14.zip",
+    "member": "CUB-Z_v1.4_U6.2.bin",
+    "sha256": "34b3513cd1464089f3f6842803dd706710c6103bcb76b6f5e3bb7d8a38de99f0",
+    "bytes": 2048
+  },
+  "assets/roms/vdt52s-u72.bin": {
+    "from": "assets/roms/vdt52s.zip",
+    "member": "VDT-52S_U7.2_FCE_0032H.BIN",
+    "sha256": "edd5dca1ed2cb480de055f13920ad0298a2a1593558680aa1aedfc9596fc401f",
+    "bytes": 2048
+  },
+  "assets/roms/vdt52s-u74.bin": {
+    "from": "assets/roms/vdt52s.zip",
+    "member": "VDT-52S_U7.4_FCE_0031H.BIN",
+    "sha256": "052b850727cbe403f15f636125f001f1272494de0db1e98a96e8e087d7d3a52e",
+    "bytes": 2048
+  },
+  "assets/roms/vdt52s-u62.bin": {
+    "from": "assets/roms/vdt52s.zip",
+    "member": "VDT-52S_U6.2_FCE_0030H.BIN",
+    "sha256": "bba8cff1ea8e0696a83a4beb2d6d3d1aefb041f0321efbeb8fa62eca965d2ea1",
+    "bytes": 2048
+  },
+  "assets/roms/sync-v.bin": {
+    "from": "assets/roms/sync.zip",
+    "member": "CUB-Z - PROM V (1986)(ICE Felix)(RO).bin",
+    "sha256": "3d5ae10cb3e75fb5f4e0b6208d817803c1b543b38aecbaccefa27fd1a93a0e21",
+    "bytes": 256
+  },
+  "assets/roms/sync-h.bin": {
+    "from": "assets/roms/sync.zip",
+    "member": "CUB-Z - PROM H (1986)(ICE Felix)(RO).bin",
+    "sha256": "271fb2848294b2c4502de7ec8b35c03f8a9846d273f1fd765466d15ca24c5d6c",
+    "bytes": 256
+  },
+  "assets/roms/keyboard.bin": {
+    "from": "assets/roms/keyboard.zip",
+    "member": "CUB-Z - VDT52S - EPROM Keyboard (1986)(ICE Felix)(RO).bin",
+    "sha256": "6e3ce2d17e7bd3f8823203b62939938f62229b2010e699743ba59ebb9176942e",
+    "bytes": 2048
+  },
+  "assets/roms/cubz-v13.rom": {
+    "generated": "8K replacement layout: C3 3F F8, 2045 FF bytes, U6.2, U7.4, U7.2",
+    "inputs": [
+      "assets/roms/v13-u62.bin",
+      "assets/roms/v13-u74.bin",
+      "assets/roms/v13-u72.bin"
+    ],
+    "sha256": "716065d441e02b5ee8fdd214d300fd557c742d829a2a749c02cf4ba34d1806b0",
+    "bytes": 8192
+  },
+  "assets/roms/cubz-v14.rom": {
+    "generated": "8K replacement layout: C3 3F F8, 2045 FF bytes, U6.2, U7.4, U7.2",
+    "inputs": [
+      "assets/roms/v14-u62.bin",
+      "assets/roms/v14-u74.bin",
+      "assets/roms/v14-u72.bin"
+    ],
+    "sha256": "a49e7e2435987011b54405333851116678996fb865c66da2fe28e5dc9a34d4f3",
+    "bytes": 8192
+  }
+}

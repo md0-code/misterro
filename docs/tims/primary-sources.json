@@ -1,0 +1,56 @@
+[
+  {
+    "path": "docs/reference/plus-schematic.pdf",
+    "url": "https://www.z80-romania.ro/files/97/TIM-S Plus - Scheme logice (1990)(P\u0103nescu, Dumitru)(RO)[600dpi-Alb-Negru].pdf?1685971672",
+    "sha256": "a5fe751ee9fc70c96f54fa12282a6466c1350d15613bb01f16bc1fae3716e9c0",
+    "bytes": 1280384
+  },
+  {
+    "path": "docs/reference/standard-install.pdf",
+    "url": "https://www.z80-romania.ro/files/116/TIM-S - Microcalculator personal - Instruct\u0326iuni de instalare s\u0326i scheme logice (1986)(FMECTC Timisoara)(RO)[600dpi-Alb-Negru].pdf?1684014111",
+    "sha256": "7e87f3aef6110dd1cfd7549b5a5c9616d8db838309e95a0217b4bf8a6580d0cf",
+    "bytes": 3183106
+  },
+  {
+    "path": "docs/reference/standard-manual.pdf",
+    "url": "https://www.z80-romania.ro/files/115/TIM-S - Manual de funct\u0326ionare s\u0326i utilizare (1986)(FMECTC Timisoara)(RO)[600dpi-Alb-Negru].pdf?1684014006",
+    "sha256": "d0af800d4dfbbc2b5155eef74b50f8c09b83b3d11b6dea2d773cbb61ba54b502",
+    "bytes": 5345493
+  },
+  {
+    "path": "docs/reference/standard-schematic.pdf",
+    "url": "https://www.z80-romania.ro/files/68/TIM-S - Scheme logice (1986)(FMECTC Timisoara)(RO)[1200dpi-Alb-Negru].pdf?1683750383",
+    "sha256": "98f643f099e3cbdcb65eed00cbb4c76ca09d768509e68c7c1547ccd26f9dca30",
+    "bytes": 4967082
+  },
+  {
+    "path": "docs/reference/volume-1.pdf",
+    "url": "https://www.z80-romania.ro/files/30/TIM-S Plus - s\u0326apte calculatoare i\u0302ntr-unul singur (1990)(Pa\u0306nescu, Dumitru)(RO)(Vol 1)[600dpi-Alb-Negru].pdf?1699771845",
+    "sha256": "c2b4f12fafc9f11b345136aa912265f2abcad04d63f7cfb7f7115f56340aabfb",
+    "bytes": 9972436
+  },
+  {
+    "path": "docs/reference/volume-2.pdf",
+    "url": "https://www.z80-romania.ro/files/30/TIM-S Plus - s\u0326apte calculatoare i\u0302ntr-unul singur (1990)(Pa\u0306nescu, Dumitru)(RO)(Vol 2)[600dpi-Alb-Negru].pdf?1699905156",
+    "sha256": "a4128f1d9baaf53a19d3a9cbf941e2f9f8e292b43ffa4daca93d8cc5f14ae219",
+    "bytes": 12880831
+  },
+  {
+    "path": "docs/reference/volume-3.pdf",
+    "url": "https://www.z80-romania.ro/files/30/TIM-S Plus - s\u0326apte calculatoare i\u0302ntr-unul singur (1990)(P\u0103nescu, Dumitru)(RO)(Vol 3)[600dpi-Alb-Negru].pdf?1685971643",
+    "sha256": "f8ce8ab3f8e4955aab5603218d4cbc35ef6bac213b2894cb22f4607e263d1b09",
+    "bytes": 13350288
+  },
+  {
+    "path": "docs/reference/original-sources/TIM-N - ROM (1985)(FMECTC Timisoara).rom.zip",
+    "url": "https://www.z80-romania.ro/files/68/TIM-N - ROM (1985)(FMECTC Timisoara).rom.zip?1705068107",
+    "sha256": "dd5adccf162a46c571ef6b1e03545a51bfc5ee303bc9dc4148a86c2c2c63dc01",
+    "bytes": 13277
+  },
+  {
+    "path": "docs/reference/original-sources/TIM-S - ROM (1986)(FMECTC Timisoara).rom.zip",
+    "url": "https://www.z80-romania.ro/files/68/TIM-S - ROM (1986)(FMECTC Timisoara).rom.zip?1705068099",
+    "sha256": "0cfeee70994d01fba1a2a20089334a2803eeb4f9fefbb6c1f72deea483ac2fef",
+    "bytes": 13164
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "PRAE36": {
+    "scope": "PRAE36 native hardware, firmware and runtime media",
+    "files": {
+      "demo.pzx": "assets/tapes/demo.pzx",
+      "support/basic.rom": "assets/roms/prae-3.6-inverted.rom"
+    },
+    "labels": {}
+  },
+  "PRAE35": {
+    "scope": "PRAE35 native hardware, firmware and runtime media",
+    "files": {
+      "demo.pzx": "assets/tapes/demo.pzx",
+      "support/basic.rom": "assets/roms/prae-3.5-inverted.rom"
+    },
+    "labels": {}
+  }
+}

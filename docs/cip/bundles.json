@@ -1,0 +1,32 @@
+{
+ "CIP01": {
+  "scope": "Demo is the original p presentation; load basic.tzx first.",
+  "files": {
+   "boot.rom": "assets/roms/cip01.rom",
+   "demo.tzx": "assets/tapes/demo-presentation.tzx",
+   "basic.tzx": "assets/tapes/basic.tzx"
+  }
+ },
+ "CIP02": {
+  "scope": "Physical CIP02 ROM selection unverified. Demo is the original p presentation. basic.tzx supports copier mode.",
+  "files": {
+   "boot.rom": "assets/roms/resident.rom",
+   "demo.tzx": "assets/tapes/demo-presentation.tzx",
+   "basic.tzx": "assets/tapes/basic.tzx"
+  }
+ },
+ "CIP03": {
+  "scope": "Demo is the original p presentation.",
+  "files": {
+   "boot.rom": "assets/roms/resident.rom",
+   "demo.tzx": "assets/tapes/demo-presentation.tzx"
+  }
+ },
+ "CIP04": {
+  "scope": "Experimental +3 profile. Demo is the original CIP p presentation; use 48 BASIC. Extra 128 KiB mapping remains unverified.",
+  "files": {
+   "boot.rom": "assets/roms/cip04.rom",
+   "demo.tzx": "assets/tapes/demo-presentation.tzx"
+  }
+ }
+}

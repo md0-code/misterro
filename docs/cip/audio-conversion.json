@@ -1,0 +1,26 @@
+{
+  "source_mp3_sha256": "6fd5e55d5e52d9564069a7a48f686f9aba556a2c656ee5e49ac9e0013f076cb8",
+  "sample_rate": 44100,
+  "thresholds": [
+    1500,
+    2500,
+    3500,
+    4500
+  ],
+  "blocks": [
+    {
+      "pilot_pulses": 8064,
+      "bytes": 19,
+      "xor_checksum": 0
+    },
+    {
+      "pilot_pulses": 3220,
+      "bytes": 16385,
+      "xor_checksum": 0
+    }
+  ],
+  "load_address": 0,
+  "payload_bytes": 16383,
+  "payload_sha256": "f1c17ab6c6afa4377ec83f52708ed6e44d825f19418b112428124515a8c955a9",
+  "conversion": "Schmitt-trigger pulse decoding; checksum-verified standard TZX blocks; nominal pulse timing"
+}

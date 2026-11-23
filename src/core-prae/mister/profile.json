@@ -1,0 +1,6 @@
+{
+  "name": "PRAE",
+  "clock_hz": 40000000,
+  "firmware_bytes": 32768,
+  "requires_sdram": false
+}

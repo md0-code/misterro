@@ -1,0 +1,22 @@
+{
+  "kernel2036-source.zip": {
+    "url": "https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.0/pkgs/kernels.zip",
+    "sha256": "c6085b8d61b985f6805b4ff78cf98d083ef6d7cb801d741002d71f2f6d28dc08",
+    "bytes": 931326
+  },
+  "freecom082pl3-source.zip": {
+    "url": "https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/command/0.82pl3/com082pl3.zip",
+    "sha256": "44de286e14c52dab5ae46c97c8026746589f603487fa99ce333557de1f919845",
+    "bytes": 527810
+  },
+  "chkdsk-source.zip": {
+    "url": "https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.0/pkgs/chkdsks.zip",
+    "sha256": "a01d66880fb8089faaa348c52353079173afa7cd70ef7b93934d0d5298c7f245",
+    "bytes": 368700
+  },
+  "format-source.zip": {
+    "url": "https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.0/pkgs/formats.zip",
+    "sha256": "0f195760d162823e362ff5d66ec3f616d9e5188b677a57ecf1fce92f20b29b84",
+    "bytes": 88060
+  }
+}

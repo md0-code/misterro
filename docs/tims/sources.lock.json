@@ -1,0 +1,47 @@
+{
+  "assets/disks/blank.dsk": {
+    "bytes": 778496,
+    "sha256": "38b8f5efc198f77138b6dcbd686787f0b56f798d70493cc9f8da16f03bfd9509",
+    "derived": true
+  },
+  "assets/roms/boot.rom": {
+    "bytes": 83968,
+    "sha256": "19cc48868d912027340c34ff2da49e4c90df908df66aa647711c03065cb6f6c3",
+    "derived": true
+  },
+  "assets/roms/plus-loader.asm": {
+    "bytes": 1036,
+    "sha256": "1365187834d9ef36bdc35fd642d5a70d77a797a1915a04d8d051c8d4f0dda1a7",
+    "derived": true
+  },
+  "assets/roms/plus-loader.rom": {
+    "bytes": 2048,
+    "sha256": "877a669698b880e6367ae9968c0ac0c5a0e93edf917b424cc6490bb9e2e01b86",
+    "derived": true
+  },
+  "assets/roms/plus3-system.rom": {
+    "bytes": 65536,
+    "sha256": "5e7d9b3355ca76f4a99cbcc0bc1c90118ecda6a1549c2cb0f02e98af17694f3e",
+    "derived": true
+  },
+  "assets/roms/timn.rom": {
+    "bytes": 16384,
+    "sha256": "5d99d4cd02a6721cba101547f9fb5069e86b96bbaae97fbccc7038067070db74",
+    "derived": true
+  },
+  "assets/roms/tims-standard.rom": {
+    "bytes": 16384,
+    "sha256": "89df0794d0b6b59c3a8d789b6906cbc960f0e2cb8c207bea7ac300b92fc1df56",
+    "derived": true
+  },
+  "assets/support/printer.prn": {
+    "bytes": 1048577,
+    "sha256": "db8ca6ae9465da3eed0a154b48e7f530579ce024fe771da835ddeec0d8c8f1c8",
+    "derived": true
+  },
+  "assets/tapes/demo.tap": {
+    "bytes": 63,
+    "sha256": "23203311e7ebad193c8b39f746a43e33badc4263f1cb0166fd4d18d3224af8e2",
+    "derived": true
+  }
+}

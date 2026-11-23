@@ -1,0 +1,10 @@
+{
+  "AMIC": {
+    "scope": "AMIC native hardware, firmware and runtime media",
+    "files": {
+      "demo.pzx": "assets/tapes/demo.pzx",
+      "support/original.rom": "assets/roms/original.rom"
+    },
+    "labels": {}
+  }
+}

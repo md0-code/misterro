@@ -1,0 +1,422 @@
+{
+  "assets/roms/hc85.zip": {
+    "url": "https://www.z80-romania.ro/files/54/HC%2085%20%2819xx%29%28ICEFelix%29.rom.zip",
+    "sha256": "4386cdb18896808ae982f4d5c879d40ba9784b3f4724e398f21f88b008a36717",
+    "bytes": 12431
+  },
+  "assets/roms/hc85.rom": {
+    "sha1": "a4189db0bcdf8b39ed782b398828efb408fc4817",
+    "sha256": "e3b92f2362b67c8ea5697f1eea89eab6319c5bcb255be3bdaa314f10b602d1dc",
+    "bytes": 16384,
+    "from": "assets/roms/hc85.zip"
+  },
+  "assets/tapes/hardware.tzx": {
+    "url": "https://www.z80-romania.ro/files/65/HC-85 - Hardware (1986)(ICE Felix)(RO).tzx?1692451797",
+    "sha256": "1755823027ca741d2e29b5de6c9ef0ed0f5cbb1d2b7dceafce5c7aa8666f17db",
+    "bytes": 11374
+  },
+  "assets/tapes/serpenti.tzx": {
+    "url": "https://www.z80-romania.ro/files/65/HC-85 - Serpenti (1986)(ICE Felix)(RO).tzx?1692451844",
+    "sha256": "7cfd754aea00aa58759a35b51304749958182656091e8dad9793bb4eecb9fd42",
+    "bytes": 25235
+  },
+  "docs/reference/hc85/manual.pdf": {
+    "url": "https://www.z80-romania.ro/files/55/Manual%20tehnic%20HC-85%20%281987%29%28ICE%20Felix%29%28RO%29%5B600dpi-Alb-Negru%5D.pdf",
+    "sha256": "d62097b6d2a26ff374146ca0f389956723d123eab3513621825940d54e0c3af5",
+    "bytes": 4002793
+  },
+  "docs/reference/hc85/schematic.pdf": {
+    "url": "https://www.z80-romania.ro/files/54/HC-85%20-%20Scheme%20logice%20%281987%29%28ICE%20Felix%29%28RO%29%5B1200dpi-Alb-Negru%5D.pdf",
+    "sha256": "f02aaa034303c9503cb198cc5f9ea0c03bffcb4e8e8d564db447a0ffc7b8ce4b",
+    "bytes": 1088103
+  },
+  "assets/tapes/hc85/demo.tzx": {
+    "url": "https://www.z80-romania.ro/files/65/HC-85 - Caseta Demonstrativa (1986)(ICE Felix)(Side A & B).tzx?1692451364",
+    "sha256": "745b3ca4ee46edcb6b12a381a92934e995d6ddee2507f5909c1c6b2602eae3c8",
+    "bytes": 94072
+  },
+  "docs/reference/hc90/manual.pdf": {
+    "url": "https://www.z80-romania.ro/files/49/Manual de utilizare HC-90 (1990)(ICE Felix)(RO)[600dpi-Alb-Negru].pdf?1688168638",
+    "sha256": "30963dfae179b513c0af07350323f7dd00d3df3efcd6c52cd3c94dc9f151b612",
+    "bytes": 3260776
+  },
+  "docs/reference/hc90/schematic.pdf": {
+    "url": "https://www.z80-romania.ro/files/260/HC-90 - Scheme logice (1990)(ICE Felix)(RO)[400dpi-Alb-Negru].pdf?1740834209",
+    "sha256": "fe4fc951be5339da6237a8fd9eeb10a8d21476644c3f2138465fa03a8bf6ff16",
+    "bytes": 876225
+  },
+  "assets/roms/hc90.zip": {
+    "url": "https://www.z80-romania.ro/files/2/HC 90 (19xx)(ICEFelix).rom.zip?1683608922",
+    "sha256": "3eb1c2f4484ebcde8bc6d9f2efd07f6fad316338a66c9c0faaed76789d0bbcea",
+    "bytes": 12431
+  },
+  "assets/tapes/hc90/demo.tzx": {
+    "url": "https://www.z80-romania.ro/files/66/HC-90 - Caseta Demonstrativa (1990)(ICE Felix)(RO).tzx?1698259263",
+    "sha256": "ca8da32bb957f48e10233daad8fe1260d824398000ce4f1df39bf5888cb92d45",
+    "bytes": 105442
+  },
+  "assets/tapes/hc90/hardware.tzx": {
+    "url": "https://www.z80-romania.ro/files/66/HC-90 - Hardware (1990)(ICE Felix)(RO).tzx?1684054789",
+    "sha256": "1647d46ed97f00ad843607781e407955823eee20f0a970d7e4af16d000536647",
+    "bytes": 11561
+  },
+  "docs/reference/hc91/manual.pdf": {
+    "url": "https://www.z80-romania.ro/files/27/Manual de utilizare HC-91 (1991)(ICE Felix)(RO)[600dpi-Alb-negru].pdf?1681493322",
+    "sha256": "a6c36974aac1f01daecf6ecce3cb9af9f979a66e64acb315b5bfad7ece5c63d0",
+    "bytes": 2560191
+  },
+  "docs/reference/hc91/schematic.pdf": {
+    "url": "https://www.z80-romania.ro/files/261/HC-91 - Scheme logice (1991)(ICE Felix)(RO)[400dpi-Alb-Negru].pdf?1740844744",
+    "sha256": "9efce385ce98aceb6c633a6b3b83272aeef8c0d8976c7a92bda187af1f389085",
+    "bytes": 877581
+  },
+  "assets/roms/hc91.zip": {
+    "url": "https://www.z80-romania.ro/files/7/HC 91 (19xx)(ICEFelix).rom.zip?1683608892",
+    "sha256": "ce5b323dbfebeafa6cfb4dc9a109dc5cb875b8b46464ffb18a70f6b139e05fab",
+    "bytes": 90755
+  },
+  "assets/tapes/hc91/demo.tzx": {
+    "url": "https://www.z80-romania.ro/files/60/HC-91 - Caseta Demonstrativa (1992)(ICE Felix)(RO).tzx?1692452807",
+    "sha256": "547b98c18389fa9f078fa953b01c7fe6269534e86da4fa82063efa6123644896",
+    "bytes": 87571
+  },
+  "assets/tapes/hc91/hardware.tzx": {
+    "url": "https://www.z80-romania.ro/files/60/HC-91 - Hardware (1992)(ICE Felix)(RO).tzx?1692452766",
+    "sha256": "5358400c6a3b8f3789a6db09fb09d21373d60911a5cfd40a5ca5ad4d82c9fb01",
+    "bytes": 11372
+  },
+  "assets/roms/hc90.rom": {
+    "sha256": "b23d93245be833ce9b2e00c7e9f37fad5ae075c1642a01222f5f86fb915a60cf",
+    "sha1": "25ef81905bed90497a749770170c24632efb2039",
+    "bytes": 16384,
+    "from": "assets/roms/hc90.zip"
+  },
+  "assets/roms/hc91.rom": {
+    "sha256": "0902690c7b69871a2791165fb06f699bc676985d867dbaa0d76c1ef89d40a9ca",
+    "sha1": "967d5179ba2823e9c8dd9ddfb0430465aaddb554",
+    "bytes": 16384,
+    "from": "assets/roms/hc91.zip"
+  },
+  "assets/tapes/hc90/serpenti.tzx": {
+    "url": "https://www.z80-romania.ro/files/66/HC-90 - Serpenti (1990)(ICE Felix)(RO).tzx?1684054927",
+    "sha256": "546fe91fdc3700c3fe568055a9fbd26a58252afa378529cc59c7a8f2418fb5fd",
+    "bytes": 25205
+  },
+  "assets/tapes/hc91/serpenti.tzx": {
+    "url": "https://www.z80-romania.ro/files/60/HC-91 - Serpenti (1992)(ICE Felix)(RO).tzx?1692452792",
+    "sha256": "ffba4ced11ce3ddbcdf7413149a96d52530f10e01e44bdb9dfe271734ddabe59",
+    "bytes": 25232
+  },
+  "docs/reference/hc88/schematic.pdf": {
+    "url": "https://www.z80-romania.ro/files/259/HC-88 - Scheme logice (1989)(ICE Felix)(RO)[600dpi-Alb-Negru].pdf?1740832110=",
+    "sha256": "66911a314dab70bccb1b12ab475e7262ac075992ac1146633e7d1b47a7cecbd0",
+    "bytes": 2450995
+  },
+  "docs/reference/hc88/schematic-revival.pdf": {
+    "url": "https://www.z80-romania.ro/files/259/Schema electrica\u0306 HC-88 (2010)[revival by cmd - Cosmin].pdf?1740832307=",
+    "sha256": "77fc370e317ac5d3bcdaa45c7ecc63a2f8d09c8d1df8dff67c4de885a49a93cf",
+    "bytes": 513156
+  },
+  "docs/reference/hc88/hc88-rom.zip": {
+    "url": "https://www.z80-romania.ro/files/72/HC 88 (19xx)(ICEFelix).rom.zip?1683609602=",
+    "sha256": "fa6359075c7f233db95f24b3c0c2f25ca119f6e8fbdd053daf8497c952b25f09",
+    "bytes": 659
+  },
+  "docs/reference/hc88/boot-disassembly.doc": {
+    "url": "https://www.z80-romania.ro/files/72/HC 88 - boot rom dezasamblat.doc?1697306299=",
+    "sha256": "aaa9d41d895f7c78e1d81a1b67c9154855978b57c0818eb2f855116d2ce9ec28",
+    "bytes": 362496
+  },
+  "assets/roms/hc88.rom": {
+    "from": "docs/reference/hc88/hc88-rom.zip",
+    "sha256": "73fc1804f9a7c110533141d23e940f1af3a390155d0ccbbdcc254a21358431c4",
+    "sha1": "b15a6e7085710de8b818e42d329707cb737627e3",
+    "bytes": 2048
+  },
+  "docs/reference/hc88/cpm22/ccp.asm": {
+    "url": "https://raw.githubusercontent.com/brouhaha/cpm22/01018abbccce0bdf4874b0b2ed1a048c5fcc2987/ccp.asm",
+    "bytes": 26689,
+    "sha256": "015dc575a8e4d8d54057a7d014b90cf17df490c0e356346cc740cb0d3a73d262"
+  },
+  "docs/reference/hc88/cpm22/bdos.asm": {
+    "url": "https://raw.githubusercontent.com/brouhaha/cpm22/01018abbccce0bdf4874b0b2ed1a048c5fcc2987/bdos.asm",
+    "bytes": 67207,
+    "sha256": "2f715ad338278d5b7c63546492ae1b25b2871ab7d42a70cc2b90ff8aa0f52930"
+  },
+  "docs/reference/hc88/cpm22/LICENSE.txt": {
+    "url": "https://raw.githubusercontent.com/brouhaha/cpm22/01018abbccce0bdf4874b0b2ed1a048c5fcc2987/LICENSE.txt",
+    "bytes": 1187,
+    "sha256": "a9bcdbc66bb31b86882e84469f133b3bd5598f46423b4c6bbb6bedb9f2eac754"
+  },
+  "docs/reference/hc88/cpm22/README.md": {
+    "url": "https://raw.githubusercontent.com/brouhaha/cpm22/01018abbccce0bdf4874b0b2ed1a048c5fcc2987/README.md",
+    "bytes": 1749,
+    "sha256": "939f663683adbf98567fd6caa95c3688c19e0ac40cc48eac730353605a927d51"
+  },
+  "assets/disks/hc88/system.dsk": {
+    "generated_by": "tools/build_hc88_disk.py",
+    "sha256": "56900bff813d5ebe86d7d118ad97931562ee6963b03d742365c41a7a2ba7c28a",
+    "bytes": 778496,
+    "scope": "Replacement HC88 CP/M 2.2 system disk; original bootstrap remains unchanged"
+  },
+  "docs/reference/expansions/hc85-if1/firmware.zip": {
+    "url": "https://www.z80-romania.ro/files/245/IF1 HC-85 - EPROMS (198x)(ICE Felix)(RO).zip?1707981997",
+    "bytes": 7277,
+    "sha256": "c18df1599fb4a31ee0a7d58fc13bf51b22e8cc2d6133a2f1b137742a926f9349"
+  },
+  "docs/reference/expansions/hc85-if1/manual.pdf": {
+    "url": "https://www.z80-romania.ro/files/245/IF1 HC-85 - Manual de utilizare (198x)(ICE Felix)(RO)[600dpi-Alb-Negru].pdf?1705177698",
+    "bytes": 1187445,
+    "sha256": "fe65add9b6cfc0799e4f94e2f00db9bb1b038498f02178a376cc60d42159a93b"
+  },
+  "docs/reference/expansions/hc85-if1/schematic.pdf": {
+    "url": "https://www.z80-romania.ro/files/245/IF1 HC-85 - Schema electric\u0103 (198x)(ICE Felix)(RO)[600dpi-Color].pdf?1705177713",
+    "bytes": 447025,
+    "sha256": "16f6aa778326c1b36d442a135290e298d2beeee806ef6fb8097d7af5762117b7"
+  },
+  "docs/reference/expansions/hc85-if1/technical.pdf": {
+    "url": "https://www.z80-romania.ro/files/245/IF1 HC-85 - Interfa\u021ba pentru disc flexibil, serial\u0103 \u0219i re\u021bea local\u0103 (198x)(ICE Felix)(RO)[600dpi-Alb-Negru].pdf?1705177669",
+    "bytes": 1423842,
+    "sha256": "365c3ebaafdfbd79ffe53b60c61038081b50789b8b3182ed268a0bb82d371ef3"
+  },
+  "docs/reference/expansions/hc85-if1/annex.pdf": {
+    "url": "https://www.z80-romania.ro/files/245/IF1 HC-85 - Anexe (198x)(ICE Felix)(RO)[600dpi-Alb-Negru].pdf?1705177684",
+    "bytes": 725799,
+    "sha256": "2f38fe4dfccf30d775d5e03b0533c10e2af821ba6d8c291e8dfacd45a073bf7c"
+  },
+  "docs/reference/expansions/hc128/firmware.zip": {
+    "url": "https://www.z80-romania.ro/files/56/HC 91 Plus - HC 128 (19xx)(ICEFelix).rom.zip?1683610071",
+    "bytes": 50066,
+    "sha256": "d7a0720e37cdfabb082a0c4b12c2bf03e4327a2acd35773a21a5fc90f0fc1ae7"
+  },
+  "docs/reference/expansions/hc128/manual.pdf": {
+    "url": "https://www.z80-romania.ro/files/28/Manual de utilizare HC-91 Plus (1994)(ICE Felix)(RO)[600dpi-Alb-Negru].pdf?1682023124",
+    "bytes": 316473,
+    "sha256": "fbee89848e2acc834c2bb424b56d856d4be61dca272df4bc5a1f0eccceab02ee"
+  },
+  "docs/reference/expansions/hc2000/manual.pdf": {
+    "url": "https://www.z80-romania.ro/files/51/Manual de utilizare HC-2000 (1994)(ICE Felix)(RO)[RHC].pdf?1682145775",
+    "bytes": 8918985,
+    "sha256": "95a46765baa1841950dfab6dc6c68b9d513f702a676bf8a35cc26c7360acab46"
+  },
+  "docs/reference/expansions/hc90-if1/schematic.pdf": {
+    "url": "https://www.z80-romania.ro/files/198/Interfat\u0326a 1 pentru HC90-HC91 - Scheme logice (1991-1992)(ICE Felix)(RO)[v2][400dpi-Alb-Negru].pdf?1740844202",
+    "bytes": 376372,
+    "sha256": "4de26c91114d1922fc368e31ea07d8105ac69425296064e80a78132e91021a3c"
+  },
+  "docs/reference/expansions/hc2000/cpm.zip": {
+    "url": "https://www.z80-romania.ro/files/197/CPM v2.2 (1992)(ICE Felix)(3.5 inch).dsk.zip?1693775411",
+    "bytes": 664450,
+    "sha256": "2a214b4fc414a9d177dfe452f241154939ee1910c14ce142dde7ddef5b8bd4a2"
+  },
+  "docs/reference/expansions/hc91/cpm.zip": {
+    "url": "https://www.z80-romania.ro/files/197/CPM v2.2 (1991)(ICE Felix)(5.25 inch).dsk.zip?1693775391",
+    "bytes": 1874032,
+    "sha256": "2bdc0539091eb4f5630df729cc327e88c3b38ad6850f526a564cf22252ecf65f"
+  },
+  "docs/reference/expansions/hc2000/cpm.txt": {
+    "url": "https://www.z80-romania.ro/files/197/CPM v2.2 (1992)(ICE Felix)(3.5 inch) - Instructiuni.txt?1693758439",
+    "bytes": 11086,
+    "sha256": "f16e75745a52ea5546d207b6e0b6cb96f57954465c2617b12f1907925e3803a3"
+  },
+  "docs/reference/expansions/hc91/cpm.txt": {
+    "url": "https://www.z80-romania.ro/files/197/CPM v2.2 (1991)(ICE Felix)(5.25 inch) - Instructiuni.txt?1693758819",
+    "bytes": 11576,
+    "sha256": "b2f5e3293af2dfc27e71571057659edd96349925c19cb4919cffec9359c92c80"
+  },
+  "docs/reference/expansions/hc85-128/mod.pdf": {
+    "url": "https://www.z80-romania.ro/files/54/HC-85 - 128K RAM Mod (1995)[by Cosmin].pdf?1682022202",
+    "bytes": 6500680,
+    "sha256": "26408614e5a335214cf5e29f537c66c695f5eaeff13de49d1d02894ced2869c4"
+  },
+  "docs/reference/expansions/hc2000/firmware.bin": {
+    "url": "https://raw.githubusercontent.com/badrianiulian/HC2000/b8f3e445e44a676e4aac0ad15c360a1e098bc8e4/Dump/EPROM_HC2000_Rev_E/M27C512%5Bd66cdd72%5D.bin",
+    "bytes": 65536,
+    "sha256": "83e3213b049c5b849ee32e04da901eba06992d5aa1f44f76564f312c79748d2b"
+  },
+  "docs/reference/expansions/hc2000/pal.bin": {
+    "url": "https://raw.githubusercontent.com/badrianiulian/HC2000/b8f3e445e44a676e4aac0ad15c360a1e098bc8e4/Dump/PROM_PAL_HC/%D0%9A%D0%A0556%D0%A0%D0%A211%5B3d44ccaf%5D.bin",
+    "bytes": 256,
+    "sha256": "cf74c13340e8668115ad1d23d22a6e57db39eb67efdf7cb6bce1eb93ff409b03"
+  },
+  "docs/reference/expansions/hc2000/netlist.xml": {
+    "url": "https://raw.githubusercontent.com/badrianiulian/HC2000/b8f3e445e44a676e4aac0ad15c360a1e098bc8e4/HC2000.xml",
+    "bytes": 337245,
+    "sha256": "c3c02cd5c47e0edbaa58ba3384b53a36d69a0c704bed7a5ddc435a0e38b54c71"
+  },
+  "docs/reference/expansions/hc2000/original-schematic.pdf": {
+    "url": "https://raw.githubusercontent.com/badrianiulian/HC2000/b8f3e445e44a676e4aac0ad15c360a1e098bc8e4/ICE%20Felix%20-%20HC2000%20Schematics%20%28Rev%20B%29.pdf",
+    "bytes": 3433438,
+    "sha256": "5ea24d1d25c47d47f3e27f7fb714df8a50ccd0cd2ba535042876a3b68d376b1f"
+  },
+  "docs/reference/expansions/hc2000/reconstruction-README.md": {
+    "url": "https://raw.githubusercontent.com/badrianiulian/HC2000/b8f3e445e44a676e4aac0ad15c360a1e098bc8e4/README.md",
+    "bytes": 3297,
+    "sha256": "35dd60292b355ad920a08cc07a6077aaacaa2c3d9edc5f9e9fad4d4efac504b9"
+  },
+  "docs/reference/expansions/fuse-ro.zip": {
+    "url": "https://raw.githubusercontent.com/svpantazi/fuse-ro/f57d2415f89bd832e6df49a465319929b05f3508/ro5/fuse-1.6.0-ro-5.zip",
+    "bytes": 15523779,
+    "sha256": "310947a46a00fbc74672c17040d70782adcc71e722c5e1ae6a541cd0f4e916c2"
+  },
+  "assets/roms/hc128.rom": {
+    "from": "docs/reference/expansions/hc128/firmware.zip",
+    "member": "HC 128 (19xx)(ICEFelix)(32K).rom",
+    "bytes": 32768,
+    "sha256": "15193b404dfe4c6b242c8406e96a8494d0dd837323e043c93b696a28f4579b0f"
+  },
+  "assets/roms/hc2000-0.rom": {
+    "from": "docs/reference/expansions/fuse-ro.zip",
+    "member": "fuse-1.6.0-ro-5_WORK/roms/hc2000-0.rom",
+    "bytes": 16384,
+    "sha256": "fcb2da8daa8e1698b898a13b8baf9556d7fe2c7f2039bd1b7a6033185e0798b8",
+    "sha1": "f8139fc38478691cf44944dc83fd6e70b0f002fb"
+  },
+  "assets/roms/hc2000-1.rom": {
+    "from": "docs/reference/expansions/fuse-ro.zip",
+    "member": "fuse-1.6.0-ro-5_WORK/roms/hc2000-1.rom",
+    "bytes": 16384,
+    "sha256": "4e5a52e98cbe5f9d42bcb2dcdd38cc6095f42dc0fb437be218dacac3da3830fa",
+    "sha1": "55a30d99c37c86c55ce6c8ecbe593b81d9819e90"
+  },
+  "assets/roms/if90.rom": {
+    "from": "docs/reference/expansions/fuse-ro.zip",
+    "member": "fuse-1.6.0-ro-5_WORK/roms/hc-if1.rom",
+    "bytes": 16384,
+    "sha256": "d93d799036971fa5960dd6ef3787ba4aa3e97941ab5e5714783df1ec3c8f2475",
+    "sha1": "b76d2bebcd938238f790e395859d0d237637d33e"
+  },
+  "assets/roms/if85-1.bin": {
+    "from": "docs/reference/expansions/hc85-if1/firmware.zip",
+    "member": "IF1-HC85_EPROM1.BIN",
+    "bytes": 2048,
+    "sha256": "e1c46c88fb31f5aeac970b4ec908c49adefc2570ce9476b4fd9a5ea0132944e6"
+  },
+  "assets/roms/if85-2.bin": {
+    "from": "docs/reference/expansions/hc85-if1/firmware.zip",
+    "member": "IF1-HC85_EPROM2.BIN",
+    "bytes": 2048,
+    "sha256": "e3eca1a0beb60e40fad265ef11a18567446342af7fbee3d22ad7ef8ccda14c80"
+  },
+  "assets/roms/if85-3.bin": {
+    "from": "docs/reference/expansions/hc85-if1/firmware.zip",
+    "member": "IF1-HC85_EPROM3.BIN",
+    "bytes": 2048,
+    "sha256": "8a6478b02c69ecd319ba174487070bc9b08c619bc8bdbffd63bf8c1605157ed1"
+  },
+  "assets/roms/if85-4.bin": {
+    "from": "docs/reference/expansions/hc85-if1/firmware.zip",
+    "member": "IF1-HC85_EPROM4.BIN",
+    "bytes": 2048,
+    "sha256": "d5bab0e73a0e4526a1879c1a349bb1f239ff31235b517f4d38d70e4f871fc322"
+  },
+  "assets/roms/if85-5.bin": {
+    "from": "docs/reference/expansions/hc85-if1/firmware.zip",
+    "member": "IF1-HC85_EPROM5.BIN",
+    "bytes": 2048,
+    "sha256": "75ef4ae598ea1e173dd16d232346e30b34e0e6146ccae60ed64c92f6907d0e9b"
+  },
+  "assets/roms/if85.rom": {
+    "parts": [
+      "assets/roms/if85-1.bin",
+      "assets/roms/if85-2.bin",
+      "assets/roms/if85-3.bin",
+      "assets/roms/if85-4.bin",
+      "assets/roms/if85-5.bin"
+    ],
+    "bytes": 10240,
+    "sha256": "05256118e74a3ae63a7d15368a3b353e95f3268981ccba27e03325d6aac4b538"
+  },
+  "assets/disks/hc2000/system.dsk": {
+    "from": "docs/reference/expansions/hc2000/cpm.zip",
+    "member": "CPM v2.2 (1992)(ICE Felix)(3.5 inch)[EDSK].dsk",
+    "bytes": 778496,
+    "sha256": "ff5a1c541c8aa80778a0f44d3ece398013084aafd9be1d3f32d2f68b774bb008"
+  },
+  "assets/disks/hc91/system.dsk": {
+    "from": "docs/reference/expansions/hc91/cpm.zip",
+    "member": "CPM v2.2 (1991)(ICE Felix)(5.25 inch)(Disk 1)[EDSK].dsk",
+    "bytes": 389376,
+    "sha256": "91133bbfe28c847239eb5b0bf2754177db67efd5791e0a7ccd364350477e7019"
+  },
+  "assets/disks/hc91/system2.dsk": {
+    "from": "docs/reference/expansions/hc91/cpm.zip",
+    "member": "CPM v2.2 (1991)(ICE Felix)(5.25 inch)(Disk 2)[EDSK].dsk",
+    "bytes": 389376,
+    "sha256": "5a4816c37cab6f020daf44cb0d33abd28fa92e23ba12447c3f17612f667622ac"
+  },
+  "assets/disks/hc91/system3.dsk": {
+    "from": "docs/reference/expansions/hc91/cpm.zip",
+    "member": "CPM v2.2 (1991)(ICE Felix)(5.25 inch)(Disk 3)[EDSK].dsk",
+    "bytes": 389376,
+    "sha256": "eaa282cef309e39596af164859dc3e8ac8fc74fb3768c7bdf6b719185b1f4417"
+  },
+  "assets/disks/hc91/system4.dsk": {
+    "from": "docs/reference/expansions/hc91/cpm.zip",
+    "member": "CPM v2.2 (1991)(ICE Felix)(5.25 inch)(Disk 4)[EDSK].dsk",
+    "bytes": 389376,
+    "sha256": "d9c23089dac164789b271642f940ba4544977e7133a2fed0adf096b4264dd322"
+  },
+  "assets/disks/hc91/system5.dsk": {
+    "from": "docs/reference/expansions/hc91/cpm.zip",
+    "member": "CPM v2.2 (1991)(ICE Felix)(5.25 inch)(Disk 5)[EDSK].dsk",
+    "bytes": 389376,
+    "sha256": "c92f643566af51250b833cd2293f8a524c1241792099fbf24085103b4adf9903"
+  },
+  "assets/disks/hc91/system6.dsk": {
+    "from": "docs/reference/expansions/hc91/cpm.zip",
+    "member": "CPM v2.2 (1991)(ICE Felix)(5.25 inch)(Disk 6)[EDSK].dsk",
+    "bytes": 389376,
+    "sha256": "f1bdd2118b62915a32e883464e42844774d8023c1aa7d84356651892e199041a"
+  },
+  "assets/disks/hc91/system7.dsk": {
+    "from": "docs/reference/expansions/hc91/cpm.zip",
+    "member": "CPM v2.2 (1991)(ICE Felix)(5.25 inch)(Disk 7)[EDSK].dsk",
+    "bytes": 389376,
+    "sha256": "d54b351f1ac06b5e806b19ddbd1cbb9e249b6c595bf9a5edd5a302d28366f16a"
+  },
+  "docs/reference/expansions/hc2000/demo.zip": {
+    "url": "https://www.z80-romania.ro/files/199/HC-2000 - Discheta Demonstrativa (1992)(ICE Felix)(RO)(3.5 inch).dsk.zip?1693778533",
+    "bytes": 42612,
+    "sha256": "577427a27e672c0c4e8d6d5820be92c4171d9f6298e38ba888194fdb440cef3d"
+  },
+  "assets/disks/hc2000/demo.dsk": {
+    "from": "docs/reference/expansions/hc2000/demo.zip",
+    "member": "HC-2000 - Discheta Demonstrativa (1992)(ICE Felix)(RO)(3.5 inch)[EDSK].dsk",
+    "bytes": 696576,
+    "sha256": "74e346a5d4f5992f45035c4808123282fa24f0f06cbb8f85f53bd2404dfdcb8a"
+  },
+  "docs/reference/expansions/hc85-if1/support.zip": {
+    "generated_by": "tools/build_interface_docs.py",
+    "bytes": 3659104,
+    "sha256": "6bfa2319ca248de06dea55ce101d98c5df7335c4897e7796a46c7dc1c6589ee4"
+  },
+  "docs/reference/expansions/hc90-if1/support.zip": {
+    "generated_by": "tools/build_interface_docs.py",
+    "bytes": 368910,
+    "sha256": "ae58e761bdda375716add1e40d8bd07609f735fea3ac93956c56319fce85f5be"
+  },
+  "assets/disks/hc85/blank.dsk": {
+    "generated_by": "tools/build_hc85_blank.py",
+    "bytes": 348416,
+    "sha256": "7013c6f1ca49ad2212d36b1da709b28fc8452f4473fd4dfe4c5453b9123a3010"
+  },
+  "assets/roms/hc-family-cpm-bios.rom": {
+    "from_binary": "docs/reference/expansions/hc2000/firmware.bin",
+    "offset": 49152,
+    "bytes": 8192,
+    "sha256": "89d6c04c5b69b932e16b42948895ae7f26a750c863a19f62c89c9a022933c9cc",
+    "sha1": "eed54072c87255d8194bb021dfc610c9decb29cb"
+  },
+  "assets/roms/hc-family-cpm.rom": {
+    "generated_by": "tools/build_family_cpm_rom.py",
+    "bytes": 16384,
+    "sha256": "9f71f5d5116efc8a824fac18378c61ab43e371d54c6a6db1c1374e92e5ea8bf4",
+    "scope": "Compatibility entry bridge plus unchanged original Rev-E CP/M BIOS for HC90/91/128"
+  },
+  "assets/roms/family.rom": {
+    "generated_by": "tools/pack_firmware.py",
+    "bytes": 65536,
+    "sha256": "fbfceaf759d063a42a6a5433036e6e18ecf2f9308cb4c7ced0d5c1a480a78239"
+  }
+}

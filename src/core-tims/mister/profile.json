@@ -1,0 +1,6 @@
+{
+  "name": "TIMS",
+  "clock_hz": 84000000,
+  "firmware_bytes": 83968,
+  "requires_sdram": true
+}

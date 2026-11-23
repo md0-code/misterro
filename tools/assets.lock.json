@@ -1,0 +1,574 @@
+{
+  "docs/juniorxt/reference/chkdsk-source.zip": {
+    "bytes": 368700,
+    "sha256": "a01d66880fb8089faaa348c52353079173afa7cd70ef7b93934d0d5298c7f245"
+  },
+  "docs/juniorxt/reference/format-source.zip": {
+    "bytes": 88060,
+    "sha256": "0f195760d162823e362ff5d66ec3f616d9e5188b677a57ecf1fce92f20b29b84"
+  },
+  "docs/juniorxt/reference/freecom082pl3-source.zip": {
+    "bytes": 527810,
+    "sha256": "44de286e14c52dab5ae46c97c8026746589f603487fa99ce333557de1f919845"
+  },
+  "docs/juniorxt/reference/kernel2036-source.zip": {
+    "bytes": 931326,
+    "sha256": "c6085b8d61b985f6805b4ff78cf98d083ef6d7cb801d741002d71f2f6d28dc08"
+  },
+  "src/core-amic/assets/roms/boot.rom": {
+    "bytes": 16384,
+    "sha256": "7fe40b1a70def2afc6f8c7c5eb5d1668a6dbe6d377d25b8e0676ebeb978fbef4"
+  },
+  "src/core-amic/assets/roms/original.rom": {
+    "bytes": 16384,
+    "sha256": "f968800950af4699a1131cad56ded283834333075a6c9056b0e1b7dd2d344052"
+  },
+  "src/core-amic/assets/tapes/demo.pzx": {
+    "bytes": 61276,
+    "sha256": "232a755c7537bb2d0cf004271d968cdba388e7d9bb4ccc6ec3f08f5d39497a70"
+  },
+  "src/core-cip/assets/roms/CIP-01 (1988)(Electronica).rom": {
+    "bytes": 2048,
+    "sha256": "4b75de3a67253cd06a428b9cdce6e586ed59c0ce1fd4526275b89e9866982fff"
+  },
+  "src/core-cip/assets/roms/IC25_GREEN_SINCRO.bin": {
+    "bytes": 256,
+    "sha256": "bfaefd9982c7eb4d2c97074d25dba9d1b85495b4de26dcf910804df319e9bd0f"
+  },
+  "src/core-cip/assets/roms/IC26_BLUE_MEMORY.bin": {
+    "bytes": 256,
+    "sha256": "81f9d28e1c095e4593b5cbbc29669ca3c2f0f19466f39f4343fb9513fe7c9b15"
+  },
+  "src/core-cip/assets/roms/IC27_RED_PAL.bin": {
+    "bytes": 256,
+    "sha256": "0d8ce6e9331372636fe713f3939a4f2861d55f9b6b59bf2c0bd7facdbef6b31a"
+  },
+  "src/core-cip/assets/roms/cip01.hex": {
+    "bytes": 6144,
+    "sha256": "514c5e9674865795426422e400a73681ed7547ef205fe395e6f99910a32c627b"
+  },
+  "src/core-cip/assets/roms/cip01.rom": {
+    "bytes": 2048,
+    "sha256": "4b75de3a67253cd06a428b9cdce6e586ed59c0ce1fd4526275b89e9866982fff"
+  },
+  "src/core-cip/assets/roms/cip01.zip": {
+    "bytes": 1954,
+    "sha256": "7411dc868ca89c6ce40d6391818a7cac55d524f0584b05d7fbaec8101887f4b2"
+  },
+  "src/core-cip/assets/roms/cip03.rom": {
+    "bytes": 16384,
+    "sha256": "1a05ac4f7bd67521c7f2b51b617d2fe086e28e297ec7749049d544c3ec3e1bb6"
+  },
+  "src/core-cip/assets/roms/cip03.zip": {
+    "bytes": 12431,
+    "sha256": "3a45117c9378975100d325818be48d1f0e15350bdc594647079688dbb1f4ee00"
+  },
+  "src/core-cip/assets/roms/cip04.rom": {
+    "bytes": 65536,
+    "sha256": "e8e822cdd205ed3cee95f8be51071cd7566c814019ffdfde5d268bf8f4037910"
+  },
+  "src/core-cip/assets/roms/cip04.zip": {
+    "bytes": 80498,
+    "sha256": "06829516751b4a519b0d4b6886648bb645c7ea0f0328e7d97d2b0a335b9bc8c5"
+  },
+  "src/core-cip/assets/roms/cip04/CIP-04 (1993)(Electronica).rom": {
+    "bytes": 65536,
+    "sha256": "e8e822cdd205ed3cee95f8be51071cd7566c814019ffdfde5d268bf8f4037910"
+  },
+  "src/core-cip/assets/roms/cip04/CIP-04-0 (1993)(Electronica).rom": {
+    "bytes": 16384,
+    "sha256": "c2034e55d445383224e3f80948f7ff358ed96e28bb9f64fc63eb7b34694e6870"
+  },
+  "src/core-cip/assets/roms/cip04/CIP-04-1 (1993)(Electronica).rom": {
+    "bytes": 16384,
+    "sha256": "8861bfe585edf2e8d648e6bc8b155227ebf85e97ed3a605e3dd95142ea9a95d4"
+  },
+  "src/core-cip/assets/roms/cip04/CIP-04-2 (1993)(Electronica).rom": {
+    "bytes": 16384,
+    "sha256": "c5590212a269117657ce611acbac582e41e9db87dc78db480da2615e413b2da6"
+  },
+  "src/core-cip/assets/roms/cip04/CIP-04-3 (1993)(Electronica).rom": {
+    "bytes": 16384,
+    "sha256": "6ce95c3eea9a25abf488a0feccbfc46b2ce4a90c4e21f4e79866d788fd87dfd4"
+  },
+  "src/core-cip/assets/roms/family.hex": {
+    "bytes": 335872,
+    "sha256": "b9293c9be853c4dd81531b8cbd0ced5fb2e91396efa8745d6cad2468e4ecd231"
+  },
+  "src/core-cip/assets/roms/family.rom": {
+    "bytes": 83968,
+    "sha256": "2bba53ae857cd94e13644f163a3d107130ffe01670dcad00c2cbdbb10b8ee410"
+  },
+  "src/core-cip/assets/roms/proms.zip": {
+    "bytes": 749,
+    "sha256": "9b5252d02802f93de6b1e727a3dafe5522ec1af19dd7bf80fb921d6d2219aa29"
+  },
+  "src/core-cip/assets/roms/resident.hex": {
+    "bytes": 55296,
+    "sha256": "e9e9c2c9123bacb9739fc6cb56c17cb08f4ac70853ffddb092362e950a1179c4"
+  },
+  "src/core-cip/assets/roms/resident.rom": {
+    "bytes": 18432,
+    "sha256": "7dbc8329673e15c853433eb2a2ebc4bddedf2b4b8c44a2b5f9e2a3ebef399647"
+  },
+  "src/core-cip/assets/tapes/CipBas.mp3": {
+    "bytes": 821288,
+    "sha256": "6fd5e55d5e52d9564069a7a48f686f9aba556a2c656ee5e49ac9e0013f076cb8"
+  },
+  "src/core-cip/assets/tapes/CipBas.wav": {
+    "bytes": 9049208,
+    "sha256": "35014ca335449db6ea630e816a8b30d9747ab300a1e6b802fb6d988eece3cad5"
+  },
+  "src/core-cip/assets/tapes/basic.tzx": {
+    "bytes": 16424,
+    "sha256": "9e2fb596c4b78af9ab3eb7ba43ab0816ba032b51e0b0ade48ce57dfbac3a1c5f"
+  },
+  "src/core-cip/assets/tapes/cip-basic-original.wav": {
+    "bytes": 6845672,
+    "sha256": "15f7bdb826c5e3ee584a5c5299cea985ed590815c8f65362baa493ef2a1da43d"
+  },
+  "src/core-cip/assets/tapes/demo-presentation.tzx": {
+    "bytes": 42849,
+    "sha256": "7a1cffd9e19ce9fd19637187a4b52d8d45661f476cf2745505d024895beb2bed"
+  },
+  "src/core-cip/assets/tapes/demo.tzx": {
+    "bytes": 123600,
+    "sha256": "a64dfd59893079af9c13245035f5b5ec4a0aa9ac1623f9705242fef099151e42"
+  },
+  "src/core-cobra/assets/disks/system.dsk": {
+    "bytes": 778496,
+    "sha256": "a6e83e3cafa1730e8157f87ab710ec4774e4007ffbeddba8af4b5c4f1206efbb"
+  },
+  "src/core-cobra/assets/roms/boot.rom": {
+    "bytes": 81920,
+    "sha256": "befb9116772456bbbabe9b44258f3fe5ecf3b33049be9612073707716c7f456a"
+  },
+  "src/core-cobra/assets/roms/boot_2k_cobra_64k.rom": {
+    "bytes": 2048,
+    "sha256": "8b66b2a137805bc8560adfe848897436ffa584dec509519f4b5ce5ebf7283687"
+  },
+  "src/core-cobra/assets/roms/boot_2k_cobra_80k.rom": {
+    "bytes": 2048,
+    "sha256": "e4ee921f66c33d45243cc7c2640987a4ee25cbf2cc44af065ecda978745cd65b"
+  },
+  "src/core-cobra/assets/tapes/demo.tap": {
+    "bytes": 63,
+    "sha256": "9f56b1fa897fdc44a9294ff7866c4cf04b2c9f39e82186699d2f26b0728745b3"
+  },
+  "src/core-cubz/assets/disks/cpm.dsk": {
+    "bytes": 772971,
+    "sha256": "7ea2239733f01cbe70c4341fe40fc2600ff99128c33f5d8000582cb32d475d8a"
+  },
+  "src/core-cubz/assets/roms/cubz-v13.rom": {
+    "bytes": 8192,
+    "sha256": "716065d441e02b5ee8fdd214d300fd557c742d829a2a749c02cf4ba34d1806b0"
+  },
+  "src/core-cubz/assets/roms/cubz-v14.rom": {
+    "bytes": 8192,
+    "sha256": "a49e7e2435987011b54405333851116678996fb865c66da2fe28e5dc9a34d4f3"
+  },
+  "src/core-cubz/assets/roms/keyboard.bin": {
+    "bytes": 2048,
+    "sha256": "6e3ce2d17e7bd3f8823203b62939938f62229b2010e699743ba59ebb9176942e"
+  },
+  "src/core-cubz/assets/roms/keyboard.zip": {
+    "bytes": 850,
+    "sha256": "77a2ad899008c3d6806b17585b6af65a4ac8260c04043f64e46ad06f5c697ca6"
+  },
+  "src/core-cubz/assets/roms/sync-h.bin": {
+    "bytes": 256,
+    "sha256": "271fb2848294b2c4502de7ec8b35c03f8a9846d273f1fd765466d15ca24c5d6c"
+  },
+  "src/core-cubz/assets/roms/sync-v.bin": {
+    "bytes": 256,
+    "sha256": "3d5ae10cb3e75fb5f4e0b6208d817803c1b543b38aecbaccefa27fd1a93a0e21"
+  },
+  "src/core-cubz/assets/roms/sync.zip": {
+    "bytes": 1037,
+    "sha256": "6d6891ae44d012b2155826e663e06ddcc7d3503cc3baaf41ad8d66a2061708e5"
+  },
+  "src/core-cubz/assets/roms/v13-u62.bin": {
+    "bytes": 2048,
+    "sha256": "09d04f874f83ab8addf5835b0a96a5da848fef47ef63ab6d5f6aefc04fb62180"
+  },
+  "src/core-cubz/assets/roms/v13-u72.bin": {
+    "bytes": 2048,
+    "sha256": "9b7fe6db192b0f0c542d9b3e8d0850dd1fa66cb83613c203bc02e9d71d9a4475"
+  },
+  "src/core-cubz/assets/roms/v13-u74.bin": {
+    "bytes": 2048,
+    "sha256": "22540ab4887f6d307d668643e1c4fb0832add648100bfa6dce31c440dda8a60f"
+  },
+  "src/core-cubz/assets/roms/v13.zip": {
+    "bytes": 4855,
+    "sha256": "ec53e8cb35826c6b62389606d7c9758280190b5fab5fc816b8bd0919a7b094a7"
+  },
+  "src/core-cubz/assets/roms/v14-u62.bin": {
+    "bytes": 2048,
+    "sha256": "34b3513cd1464089f3f6842803dd706710c6103bcb76b6f5e3bb7d8a38de99f0"
+  },
+  "src/core-cubz/assets/roms/v14-u72.bin": {
+    "bytes": 2048,
+    "sha256": "4a58b025e6eee1bd086e0aed4101ab67885ea03c8eb86aaa788d439db6e1bb11"
+  },
+  "src/core-cubz/assets/roms/v14-u74.bin": {
+    "bytes": 2048,
+    "sha256": "c58c5cf241130481e3371e6e3441f55db507216e9d177039d7a9ab2949f08a12"
+  },
+  "src/core-cubz/assets/roms/v14.zip": {
+    "bytes": 4791,
+    "sha256": "7f1a5a5334400ad8cb91de4239fe7868dcc3038d44435f2b21657ce1ee22fc33"
+  },
+  "src/core-cubz/assets/roms/vdt52s-u62.bin": {
+    "bytes": 2048,
+    "sha256": "bba8cff1ea8e0696a83a4beb2d6d3d1aefb041f0321efbeb8fa62eca965d2ea1"
+  },
+  "src/core-cubz/assets/roms/vdt52s-u72.bin": {
+    "bytes": 2048,
+    "sha256": "edd5dca1ed2cb480de055f13920ad0298a2a1593558680aa1aedfc9596fc401f"
+  },
+  "src/core-cubz/assets/roms/vdt52s-u74.bin": {
+    "bytes": 2048,
+    "sha256": "052b850727cbe403f15f636125f001f1272494de0db1e98a96e8e087d7d3a52e"
+  },
+  "src/core-cubz/assets/roms/vdt52s.zip": {
+    "bytes": 5353,
+    "sha256": "f9cc6f6ff5a3814cb9dd87a41d5cc35d2699ad9fcddd2e938b2a682abce6c42b"
+  },
+  "src/core-hc/assets/disks/hc2000/demo.dsk": {
+    "bytes": 696576,
+    "sha256": "74e346a5d4f5992f45035c4808123282fa24f0f06cbb8f85f53bd2404dfdcb8a"
+  },
+  "src/core-hc/assets/disks/hc2000/system.dsk": {
+    "bytes": 778496,
+    "sha256": "ff5a1c541c8aa80778a0f44d3ece398013084aafd9be1d3f32d2f68b774bb008"
+  },
+  "src/core-hc/assets/disks/hc85/blank.dsk": {
+    "bytes": 348416,
+    "sha256": "7013c6f1ca49ad2212d36b1da709b28fc8452f4473fd4dfe4c5453b9123a3010"
+  },
+  "src/core-hc/assets/disks/hc88/system.dsk": {
+    "bytes": 778496,
+    "sha256": "56900bff813d5ebe86d7d118ad97931562ee6963b03d742365c41a7a2ba7c28a"
+  },
+  "src/core-hc/assets/disks/hc91/system.dsk": {
+    "bytes": 389376,
+    "sha256": "91133bbfe28c847239eb5b0bf2754177db67efd5791e0a7ccd364350477e7019"
+  },
+  "src/core-hc/assets/disks/hc91/system2.dsk": {
+    "bytes": 389376,
+    "sha256": "5a4816c37cab6f020daf44cb0d33abd28fa92e23ba12447c3f17612f667622ac"
+  },
+  "src/core-hc/assets/disks/hc91/system3.dsk": {
+    "bytes": 389376,
+    "sha256": "eaa282cef309e39596af164859dc3e8ac8fc74fb3768c7bdf6b719185b1f4417"
+  },
+  "src/core-hc/assets/disks/hc91/system4.dsk": {
+    "bytes": 389376,
+    "sha256": "d9c23089dac164789b271642f940ba4544977e7133a2fed0adf096b4264dd322"
+  },
+  "src/core-hc/assets/disks/hc91/system5.dsk": {
+    "bytes": 389376,
+    "sha256": "c92f643566af51250b833cd2293f8a524c1241792099fbf24085103b4adf9903"
+  },
+  "src/core-hc/assets/disks/hc91/system6.dsk": {
+    "bytes": 389376,
+    "sha256": "f1bdd2118b62915a32e883464e42844774d8023c1aa7d84356651892e199041a"
+  },
+  "src/core-hc/assets/disks/hc91/system7.dsk": {
+    "bytes": 389376,
+    "sha256": "d54b351f1ac06b5e806b19ddbd1cbb9e249b6c595bf9a5edd5a302d28366f16a"
+  },
+  "src/core-hc/assets/roms/family.hex": {
+    "bytes": 196608,
+    "sha256": "f4a81533987b4450b67cdead0fb3db7baa33f13ca7e6cb193514ff71d743ba01"
+  },
+  "src/core-hc/assets/roms/family.rom": {
+    "bytes": 65536,
+    "sha256": "fbfceaf759d063a42a6a5433036e6e18ecf2f9308cb4c7ced0d5c1a480a78239"
+  },
+  "src/core-hc/assets/roms/hc-family-cpm-bios.hex": {
+    "bytes": 24576,
+    "sha256": "a902cb55fe9a0bdde56f6235337f89ade858d67ca831cad1845846ecb0d0bcf2"
+  },
+  "src/core-hc/assets/roms/hc-family-cpm-bios.rom": {
+    "bytes": 8192,
+    "sha256": "89d6c04c5b69b932e16b42948895ae7f26a750c863a19f62c89c9a022933c9cc"
+  },
+  "src/core-hc/assets/roms/hc-family-cpm.hex": {
+    "bytes": 49152,
+    "sha256": "84dc1527504fb7d8a3ffca8d91def77d28d2e291dbb451b63e121fa3088dd996"
+  },
+  "src/core-hc/assets/roms/hc-family-cpm.rom": {
+    "bytes": 16384,
+    "sha256": "9f71f5d5116efc8a824fac18378c61ab43e371d54c6a6db1c1374e92e5ea8bf4"
+  },
+  "src/core-hc/assets/roms/hc128.hex": {
+    "bytes": 98304,
+    "sha256": "83afaa3af1843500de842afb51c8ad1c3b693ffdf193609e6defe8ea1d226ffb"
+  },
+  "src/core-hc/assets/roms/hc128.rom": {
+    "bytes": 32768,
+    "sha256": "15193b404dfe4c6b242c8406e96a8494d0dd837323e043c93b696a28f4579b0f"
+  },
+  "src/core-hc/assets/roms/hc2000-0.hex": {
+    "bytes": 49152,
+    "sha256": "0bc8b5232ad8a96b56acf4db6793538cbf84d76e20fde4c4db1c3df46cece18c"
+  },
+  "src/core-hc/assets/roms/hc2000-0.rom": {
+    "bytes": 16384,
+    "sha256": "fcb2da8daa8e1698b898a13b8baf9556d7fe2c7f2039bd1b7a6033185e0798b8"
+  },
+  "src/core-hc/assets/roms/hc2000-1.hex": {
+    "bytes": 49152,
+    "sha256": "38a2826c1e0490c966141f8cc7e1eba3004716a130db4ad8cd7c079161610a60"
+  },
+  "src/core-hc/assets/roms/hc2000-1.rom": {
+    "bytes": 16384,
+    "sha256": "4e5a52e98cbe5f9d42bcb2dcdd38cc6095f42dc0fb437be218dacac3da3830fa"
+  },
+  "src/core-hc/assets/roms/hc85.hex": {
+    "bytes": 49152,
+    "sha256": "01588ac2cd7d4695a8fe943b97672f011194fc4bed98665d8628ab9db1df01ad"
+  },
+  "src/core-hc/assets/roms/hc85.rom": {
+    "bytes": 16384,
+    "sha256": "e3b92f2362b67c8ea5697f1eea89eab6319c5bcb255be3bdaa314f10b602d1dc"
+  },
+  "src/core-hc/assets/roms/hc85.zip": {
+    "bytes": 12431,
+    "sha256": "4386cdb18896808ae982f4d5c879d40ba9784b3f4724e398f21f88b008a36717"
+  },
+  "src/core-hc/assets/roms/hc88.hex": {
+    "bytes": 6144,
+    "sha256": "07542c045de5725948d1b357b9e39f7b42b0d642e3d20ef5ca2caf2d66476fc3"
+  },
+  "src/core-hc/assets/roms/hc88.rom": {
+    "bytes": 2048,
+    "sha256": "73fc1804f9a7c110533141d23e940f1af3a390155d0ccbbdcc254a21358431c4"
+  },
+  "src/core-hc/assets/roms/hc90.hex": {
+    "bytes": 49152,
+    "sha256": "c341f596756e4f42bf68dff479ba709a124e659910cdd6538b51e725c1ee8d86"
+  },
+  "src/core-hc/assets/roms/hc90.rom": {
+    "bytes": 16384,
+    "sha256": "b23d93245be833ce9b2e00c7e9f37fad5ae075c1642a01222f5f86fb915a60cf"
+  },
+  "src/core-hc/assets/roms/hc90.zip": {
+    "bytes": 12431,
+    "sha256": "3eb1c2f4484ebcde8bc6d9f2efd07f6fad316338a66c9c0faaed76789d0bbcea"
+  },
+  "src/core-hc/assets/roms/hc91.hex": {
+    "bytes": 49152,
+    "sha256": "5cd93e21d85dc670188eb6116c70cbbaef93dc9d2978eec128480b020ecee354"
+  },
+  "src/core-hc/assets/roms/hc91.rom": {
+    "bytes": 16384,
+    "sha256": "0902690c7b69871a2791165fb06f699bc676985d867dbaa0d76c1ef89d40a9ca"
+  },
+  "src/core-hc/assets/roms/hc91.zip": {
+    "bytes": 90755,
+    "sha256": "ce5b323dbfebeafa6cfb4dc9a109dc5cb875b8b46464ffb18a70f6b139e05fab"
+  },
+  "src/core-hc/assets/roms/if85-1.bin": {
+    "bytes": 2048,
+    "sha256": "e1c46c88fb31f5aeac970b4ec908c49adefc2570ce9476b4fd9a5ea0132944e6"
+  },
+  "src/core-hc/assets/roms/if85-2.bin": {
+    "bytes": 2048,
+    "sha256": "e3eca1a0beb60e40fad265ef11a18567446342af7fbee3d22ad7ef8ccda14c80"
+  },
+  "src/core-hc/assets/roms/if85-3.bin": {
+    "bytes": 2048,
+    "sha256": "8a6478b02c69ecd319ba174487070bc9b08c619bc8bdbffd63bf8c1605157ed1"
+  },
+  "src/core-hc/assets/roms/if85-4.bin": {
+    "bytes": 2048,
+    "sha256": "d5bab0e73a0e4526a1879c1a349bb1f239ff31235b517f4d38d70e4f871fc322"
+  },
+  "src/core-hc/assets/roms/if85-5.bin": {
+    "bytes": 2048,
+    "sha256": "75ef4ae598ea1e173dd16d232346e30b34e0e6146ccae60ed64c92f6907d0e9b"
+  },
+  "src/core-hc/assets/roms/if85.hex": {
+    "bytes": 30720,
+    "sha256": "b04b4a91cbf30e940119f879c514dd8f9e6b79d7406313a8c2335a3ba905f5c2"
+  },
+  "src/core-hc/assets/roms/if85.rom": {
+    "bytes": 10240,
+    "sha256": "05256118e74a3ae63a7d15368a3b353e95f3268981ccba27e03325d6aac4b538"
+  },
+  "src/core-hc/assets/roms/if90.hex": {
+    "bytes": 49152,
+    "sha256": "5051356d3a476aba50f7fe19e5f612fc4a137c9b00ab95670c371eae83442180"
+  },
+  "src/core-hc/assets/roms/if90.rom": {
+    "bytes": 16384,
+    "sha256": "d93d799036971fa5960dd6ef3787ba4aa3e97941ab5e5714783df1ec3c8f2475"
+  },
+  "src/core-hc/assets/tapes/hardware.tzx": {
+    "bytes": 11374,
+    "sha256": "1755823027ca741d2e29b5de6c9ef0ed0f5cbb1d2b7dceafce5c7aa8666f17db"
+  },
+  "src/core-hc/assets/tapes/hc85/demo.tzx": {
+    "bytes": 94072,
+    "sha256": "745b3ca4ee46edcb6b12a381a92934e995d6ddee2507f5909c1c6b2602eae3c8"
+  },
+  "src/core-hc/assets/tapes/hc90/demo.tzx": {
+    "bytes": 105442,
+    "sha256": "ca8da32bb957f48e10233daad8fe1260d824398000ce4f1df39bf5888cb92d45"
+  },
+  "src/core-hc/assets/tapes/hc90/hardware.tzx": {
+    "bytes": 11561,
+    "sha256": "1647d46ed97f00ad843607781e407955823eee20f0a970d7e4af16d000536647"
+  },
+  "src/core-hc/assets/tapes/hc90/serpenti.tzx": {
+    "bytes": 25205,
+    "sha256": "546fe91fdc3700c3fe568055a9fbd26a58252afa378529cc59c7a8f2418fb5fd"
+  },
+  "src/core-hc/assets/tapes/hc91/demo.tzx": {
+    "bytes": 87571,
+    "sha256": "547b98c18389fa9f078fa953b01c7fe6269534e86da4fa82063efa6123644896"
+  },
+  "src/core-hc/assets/tapes/hc91/hardware.tzx": {
+    "bytes": 11372,
+    "sha256": "5358400c6a3b8f3789a6db09fb09d21373d60911a5cfd40a5ca5ad4d82c9fb01"
+  },
+  "src/core-hc/assets/tapes/hc91/serpenti.tzx": {
+    "bytes": 25232,
+    "sha256": "ffba4ced11ce3ddbcdf7413149a96d52530f10e01e44bdb9dfe271734ddabe59"
+  },
+  "src/core-hc/assets/tapes/serpenti.tzx": {
+    "bytes": 25235,
+    "sha256": "7cfd754aea00aa58759a35b51304749958182656091e8dad9793bb4eecb9fd42"
+  },
+  "src/core-jet/assets/roms/boot.rom": {
+    "bytes": 16384,
+    "sha256": "f3c220e4ebbce7a2e21890ce1735bc073e90a08c51019cf5c5b7132de5cc9232"
+  },
+  "src/core-jet/assets/tapes/demo.tap": {
+    "bytes": 61,
+    "sha256": "18bd0ba9e0024cdef3df6168fde2e804f09e64b6c6a6f27fc550e83262748342"
+  },
+  "src/core-juniorxt/assets/bios-3.0.rom": {
+    "bytes": 65536,
+    "sha256": "3e53b7d92f053101127b9da0ea85f81e173c9eb1ec5aec2ad7e045259e1d0fe3"
+  },
+  "src/core-juniorxt/assets/bios-4.0.rom": {
+    "bytes": 65536,
+    "sha256": "d9edcd90a2c279adf2dd2c4a481fdc75ca24decc84bd96d66597fb1a40a0b27f"
+  },
+  "src/core-juniorxt/assets/bios-5.0-alt.rom": {
+    "bytes": 65536,
+    "sha256": "ba4e79d297f52a9ba90fadd004c86f3d108303512d913dd2baeb2345c31bc3e7"
+  },
+  "src/core-juniorxt/assets/bios-5.0.rom": {
+    "bytes": 65536,
+    "sha256": "da6f960a91fdeb739950c425d0982f4074b0b7ea000db87a7557a595aa3779f5"
+  },
+  "src/core-juniorxt/assets/boot-3.0.rom": {
+    "bytes": 81920,
+    "sha256": "c521d1016132a1dc4544a3d1de378aebfc158e179354337301271251e03db2f2"
+  },
+  "src/core-juniorxt/assets/boot-4.0.rom": {
+    "bytes": 81920,
+    "sha256": "711fc01210cfae11793a3a796e97491db97478bffe7067fc0431eabbc7f661cc"
+  },
+  "src/core-juniorxt/assets/boot-5.0-alt.rom": {
+    "bytes": 81920,
+    "sha256": "6375a91e209189cac06f9c7540167a1290bee0e60886093cda1f8206a954bc56"
+  },
+  "src/core-juniorxt/assets/boot-5.0.rom": {
+    "bytes": 81920,
+    "sha256": "ec682339b1f20436588828635f378f78bade8532e5f28c5354cff4d79ae6266d"
+  },
+  "src/core-juniorxt/assets/boot.rom": {
+    "bytes": 81920,
+    "sha256": "711fc01210cfae11793a3a796e97491db97478bffe7067fc0431eabbc7f661cc"
+  },
+  "src/core-juniorxt/assets/cga.hex": {
+    "bytes": 12288,
+    "sha256": "c03a6375ca593532ab22740fc23eb674a6d4a4dd7a8bf0f374b11a36847876ad"
+  },
+  "src/core-juniorxt/assets/chargen.rom": {
+    "bytes": 2048,
+    "sha256": "36ec4e835203128d7e06aa48c699b5e2a206dc837031be4a06a1de0179ff0c51"
+  },
+  "src/core-juniorxt/assets/demo.img": {
+    "bytes": 327680,
+    "sha256": "3fe8efc628f103d9f101a0b7326e74f109a969b1105fe8ca7acfa58865445fb2"
+  },
+  "src/core-juniorxt/assets/hdd.rom": {
+    "bytes": 8192,
+    "sha256": "0caadb074a7c9def30524b723d3f435b3fbbe8a54daf68339f2c2465d057511e"
+  },
+  "src/core-juniorxt/assets/hgc.hex": {
+    "bytes": 12288,
+    "sha256": "95292d0fdec0856caf075d7977878cb080396f5c2c3bd9436e8263f8106531bd"
+  },
+  "src/core-prae/assets/roms/boot.rom": {
+    "bytes": 32768,
+    "sha256": "9105394585d9e388360325e84f3aa7ddc083c4228bce09328240070c8f0c4a95"
+  },
+  "src/core-prae/assets/roms/prae-3.5-inverted.rom": {
+    "bytes": 16384,
+    "sha256": "46fdb6719b9965492e2abcb00adf7f0d8d8f0d7896b026e4e5e70781e768eed1"
+  },
+  "src/core-prae/assets/roms/prae-3.5-normal.rom": {
+    "bytes": 16384,
+    "sha256": "1062733ce3835c8b49c098bbd9aab87076ee6ca3d5cdd311ee9cb0ee52818ac4"
+  },
+  "src/core-prae/assets/roms/prae-3.6-inverted.rom": {
+    "bytes": 16384,
+    "sha256": "dc8c646c4eaf515bcb75bcca950df3e9242ffeb0058ead48d134e6d753c33b09"
+  },
+  "src/core-prae/assets/tapes/adv_a.wav": {
+    "bytes": 6704282,
+    "sha256": "a40200286c00bf82cac7aea705cb87be493992e7e1995aad534e63cf3fbb0e99"
+  },
+  "src/core-prae/assets/tapes/demo.pzx": {
+    "bytes": 13280,
+    "sha256": "e62334ddcc6a3bcf8a9581c221cb07d5829de920e6a4a307fa84b1aac0f87a4e"
+  },
+  "src/core-prae/assets/tapes/mman.wav": {
+    "bytes": 3318630,
+    "sha256": "c41a7aa76380c04ac81c4607a777425870b08b702c615d0b27c546d77a10709b"
+  },
+  "src/core-prae/assets/tapes/wall.wav": {
+    "bytes": 2378272,
+    "sha256": "7fb9872ff32c7db9013f2863f55bb4833152c22136543402e7e2da0b293007e6"
+  },
+  "src/core-tims/assets/disks/blank.dsk": {
+    "bytes": 778496,
+    "sha256": "38b8f5efc198f77138b6dcbd686787f0b56f798d70493cc9f8da16f03bfd9509"
+  },
+  "src/core-tims/assets/roms/boot.rom": {
+    "bytes": 83968,
+    "sha256": "19cc48868d912027340c34ff2da49e4c90df908df66aa647711c03065cb6f6c3"
+  },
+  "src/core-tims/assets/roms/plus-loader.rom": {
+    "bytes": 2048,
+    "sha256": "877a669698b880e6367ae9968c0ac0c5a0e93edf917b424cc6490bb9e2e01b86"
+  },
+  "src/core-tims/assets/roms/plus3-system.rom": {
+    "bytes": 65536,
+    "sha256": "5e7d9b3355ca76f4a99cbcc0bc1c90118ecda6a1549c2cb0f02e98af17694f3e"
+  },
+  "src/core-tims/assets/roms/timn.rom": {
+    "bytes": 16384,
+    "sha256": "5d99d4cd02a6721cba101547f9fb5069e86b96bbaae97fbccc7038067070db74"
+  },
+  "src/core-tims/assets/roms/tims-standard.rom": {
+    "bytes": 16384,
+    "sha256": "89df0794d0b6b59c3a8d789b6906cbc960f0e2cb8c207bea7ac300b92fc1df56"
+  },
+  "src/core-tims/assets/support/printer.prn": {
+    "bytes": 1048577,
+    "sha256": "db8ca6ae9465da3eed0a154b48e7f530579ce024fe771da835ddeec0d8c8f1c8"
+  },
+  "src/core-tims/assets/tapes/demo.tap": {
+    "bytes": 63,
+    "sha256": "23203311e7ebad193c8b39f746a43e33badc4263f1cb0166fd4d18d3224af8e2"
+  }
+}

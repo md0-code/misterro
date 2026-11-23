@@ -1,0 +1,67 @@
+matrix 1000000001 .08
+matrix 1000100000 .08
+matrix 1002000000 .08
+press 23
+matrix 1002000000 .08
+matrix 1004000000 .08
+press 16
+press 5a
+basic_ready
+run 3
+matrix 1000000001 .08
+matrix 1000200000 .08
+press 16
+press 5a
+basic_ready
+run .5
+press 16
+press 45
+press 4d
+press 25
+press 1e
+press 5a
+basic_ready
+press 1b
+matrix 9000000000 .08
+matrix 1002000000 .08
+press 23
+matrix 1002000000 .08
+matrix 1004000000 .08
+press 16
+matrix 1004000000 .08
+matrix 1002000000 .08
+press 21
+press 33
+press 24
+press 21
+press 42
+matrix 1002000000 .08
+press 5a
+basic_ready
+run 1
+press 1c
+press 5a
+basic_ready
+run .3
+press 3b
+matrix 9000000000 .08
+matrix 1002000000 .08
+press 23
+matrix 1002000000 .08
+matrix 1004000000 .08
+press 16
+matrix 1004000000 .08
+matrix 1002000000 .08
+press 21
+press 33
+press 24
+press 21
+press 42
+matrix 1002000000 .08
+press 5a
+basic_ready
+run 1
+press 2d
+press 5a
+basic_ready
+run .5
