@@ -33,7 +33,7 @@ system disk. The [limitations](docs/NOTES.md#limitations) say what is not known 
 3. Choose the core under **Computers** in the MiSTer menu.
 
 An archive holds the core (`_Computer/`), the machine's firmware, a demo and its support files (`games/<CORE>/`), the
-[M-CRT](docs/preset/README.md) video preset (`Filters/`, `Gamma/`, `Presets/`) and this documentation (`docs/MiSTerRO/`). The firmware loads by itself when the core starts. Each guide's Start section tells
+[CRT emulation](docs/preset/README.md) video preset (`Filters/`, `Gamma/`, `Presets/`) and this documentation (`docs/MiSTerRO/`). The firmware loads by itself when the core starts. Each guide's Start section tells
 how to reach BASIC or CP/M and load the demo. No manuals or schematics come with the cores, and no other software: the
 tapes and disks are your own. [Notes](docs/NOTES.md) lists what each archive puts on the card.
 
@@ -42,7 +42,7 @@ tapes and disks are your own. [Notes](docs/NOTES.md) lists what each archive put
 Every core has the same menu: the mounted disks and the tape first, then **System** (model, memory, startup, Load
 firmware), **Ports & Controllers** and **Audio & Video**, then **Reset**. Every core has **Aspect ratio** (Original, Full
 Screen, ARC1, ARC2) and **Scandoubler Fx** (None, HQ2x, CRT 25%, CRT 50%), and a **Monitor** choice where the machine had
-one. **Video Processing → Load preset → M-CRT** gives the picture soft pixel edges, light scanlines and a matching
+one. **Video Processing → Load preset → CRT_Emulation** gives the picture soft pixel edges, light scanlines and a matching
 gamma curve.
 
 | Key | |
@@ -70,7 +70,7 @@ The documentation is in English; this README is also available in [Romanian](REA
 
 The sources are in `src/`: one folder for each core (`core-<family>/`: the machine in `rtl/`, the MiSTer top level in
 `mister/`, simulations in `sim/`, the project's own programs for the machine in `software/`, tools in `tools/`), the
-modules the aMIC, PRAE, JET, CoBra and TIM-S share (`shared/romanian/`) and the preset (`preset-mcrt/`). The MiSTer
+modules the aMIC, PRAE, JET, CoBra and TIM-S share (`shared/romanian/`) and the CRT emulation preset (`preset-crt/`). The MiSTer
 framework is a pinned submodule.
 
 ```

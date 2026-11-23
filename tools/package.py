@@ -4,7 +4,7 @@
 
 MiSTerRO-<version>-<CORE>.zip, one for each core, is made from the core's own verified package
 (src/core-<family>/dist/<CORE>.zip, written by its tools/build.ps1 package): the bitstream (_Computer/) and the card's
-files (games/<CORE>/) as they are there, the M-CRT video preset (src/preset-mcrt/dist/: Filters/, Gamma/, Presets/)
+files (games/<CORE>/) as they are there, the CRT emulation video preset (src/preset-crt/dist/: Filters/, Gamma/, Presets/)
 and the documentation in docs/MiSTerRO/. It is extracted onto the MiSTer card.
 The core's package also carries a source export and the build's reports, which a release does without; scans of
 manuals and schematics are never shipped, and a package that still holds some loses them here.
@@ -128,10 +128,10 @@ def core_files(family: str, core: str) -> dict[str, bytes]:
 
 
 def preset_files() -> dict[str, bytes]:
-    source = ROOT / "src" / "preset-mcrt" / "dist"
+    source = ROOT / "src" / "preset-crt" / "dist"
     files = {p.relative_to(source).as_posix(): p.read_bytes() for p in sorted(source.rglob("*")) if p.is_file()}
     if not any(n.startswith("Presets/") for n in files):
-        raise PackageError("src/preset-mcrt/dist/ holds no preset")
+        raise PackageError("src/preset-crt/dist/ holds no preset")
     return files
 
 

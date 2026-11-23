@@ -35,7 +35,7 @@ spun ce nu se cunoaște sau nu este construit.
 3. Alegeți nucleul la **Computers** în meniul MiSTer.
 
 O arhivă conține nucleul (`_Computer/`), programul original al calculatorului, un program demonstrativ și fișierele
-sale de suport (`games/<NUCLEU>/`), presetarea video [M-CRT](docs/preset/README.md) (`Filters/`, `Gamma/`, `Presets/`)
+sale de suport (`games/<NUCLEU>/`), presetarea video de [emulare CRT](docs/preset/README.md) (`Filters/`, `Gamma/`, `Presets/`)
 și această documentație (`docs/MiSTerRO/`). Programul original se încarcă singur la
 pornirea nucleului. Secțiunea Start a fiecărui ghid arată cum se ajunge în BASIC sau în CP/M și cum se încarcă programul
 demonstrativ. Nucleele nu sunt însoțite de manuale sau scheme și nici de alte programe: casetele și dischetele sunt ale
@@ -46,7 +46,7 @@ dumneavoastră. [Notele](docs/NOTES.md) (în engleză) enumeră ce pune fiecare 
 Toate nucleele au același meniu: mai întâi dischetele montate și caseta, apoi **System** (model, memorie, pornire,
 Load firmware), **Ports & Controllers** și **Audio & Video**, apoi **Reset**. Fiecare nucleu are **Aspect ratio**
 (Original, Full Screen, ARC1, ARC2) și **Scandoubler Fx** (None, HQ2x, CRT 25%, CRT 50%) și, acolo unde calculatorul avea
-un monitor propriu, o opțiune **Monitor**. **Video Processing → Load preset → M-CRT** dă imaginii margini moi ale
+un monitor propriu, o opțiune **Monitor**. **Video Processing → Load preset → CRT_Emulation** dă imaginii margini moi ale
 pixelilor, linii de baleiaj discrete și o curbă gamma potrivită.
 
 | Tastă | |
@@ -75,7 +75,7 @@ Documentația este în engleză; acest README este disponibil și în [engleză]
 Sursele sunt în `src/`: câte un dosar pentru fiecare nucleu (`core-<familie>/`: calculatorul în `rtl/`, nivelul
 superior pentru MiSTer în `mister/`, simulări în `sim/`, programele proprii ale proiectului pentru calculator în
 `software/`, unelte în `tools/`), modulele comune pentru aMIC, PRAE, JET, CoBra și TIM-S (`shared/romanian/`) și
-presetarea (`preset-mcrt/`). Cadrul MiSTer este un submodul fixat.
+presetarea de emulare CRT (`preset-crt/`). Cadrul MiSTer este un submodul fixat.
 
 ```
 git submodule update --init --recursive

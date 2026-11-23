@@ -30,7 +30,7 @@ each model:
 | PRAE | `PRAE36`, `PRAE35` | |
 | JUNIORXT | | BIOS 3.0, 5.0 and 5.0-alt (`bios/`), the manual disk (`manual.img`), the character ROM |
 
-Every archive also puts the M-CRT video preset in `Filters/`, `Gamma/` and `Presets/`.
+Every archive also puts the CRT emulation video preset in `Filters/`, `Gamma/` and `Presets/`.
 
 ## Firmware and media
 
@@ -70,5 +70,5 @@ JUNIOR-XT tools download the ones the cores were built from into `docs/<family>/
 - **PRAE-M**: no floppy interface (the manual describes it as a future version).
 - **Serial, parallel and network lines** come out as 3.3 V logic signals of the FPGA on MiSTer's UART and User port
   pins: a level adapter is needed for RS-232 and for the machines' own wiring.
-- **M-CRT**: curvature, overscan, vignette, rounded corners and the monochrome modes of the shader it follows cannot be
-  done by MiSTer's video pipeline.
+- **CRT emulation**: curvature, overscan, vignette, rounded corners and monochrome modes cannot be done by MiSTer's
+  video pipeline.
