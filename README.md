@@ -91,4 +91,4 @@ packages.
 
 ## License
 
-GPL-3.0-or-later (`docs/LICENSE`). Third-party components are listed in `docs/THIRD_PARTY.md`.
+GPL-3.0-or-later (`LICENSE`). Third-party components are listed in `docs/THIRD_PARTY.md`.

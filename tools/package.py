@@ -56,6 +56,7 @@ def sha(data: bytes) -> str:
 def documentation() -> dict[str, bytes]:
     """The tracked documentation at its repository paths under docs/MiSTerRO/, its links checked."""
     files: dict[str, bytes] = {}
+    files["LICENSE"] = (ROOT / "LICENSE").read_bytes()
     for name in ("README.md", "README.ro.md"):
         text = PICTURE_LINE.sub("", (ROOT / name).read_bytes().decode("utf-8"))
         if "assets/" in text:

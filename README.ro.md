@@ -95,4 +95,4 @@ make, un compilator C++ și Docker, care rulează imaginile GHDL și Quartus 17.
 
 ## Licență
 
-GPL-3.0-or-later (`docs/LICENSE`). Componentele terților sunt enumerate în `docs/THIRD_PARTY.md`.
+GPL-3.0-or-later (`LICENSE`). Componentele terților sunt enumerate în `docs/THIRD_PARTY.md`.
